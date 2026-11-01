@@ -7,7 +7,7 @@ Use this folder to store PU BIT153HS previous-year question papers.
 ```text
 Previous-Questions/
 └── README.md
-    ├── CITE Pre-board
+    ├── 2026 CITE Pre-board
     ├── 2025-Regular
     ├── 2024-Regular
     ├── 2023-Regular
