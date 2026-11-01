@@ -1,39 +1,28 @@
 # Previous Questions – BIT154CO
 
-Use this folder to store authentic Purbanchal University BIT154CO – Object-Oriented Programming in C++ final examination question papers.
+This folder stores Purbanchal University (PU) BIT BIT154CO – Object-Oriented Programming in C++ question papers, organized by examination type and year.
 
-## Year-wise Question Papers
-
-| Year | Examination | File |
-|---|---|---|
-| 2026 | Regular | To be added |
-| 2025 | Regular | To be added |
-| 2024 | Regular | To be added |
-| 2023 | Regular | To be added |
-| 2022 | Regular | To be added |
-
-> **Note:** A year is marked as pending until an authentic BIT154CO question paper is obtained and verified. Do not treat questions from other universities or older course codes as PU BIT154CO papers.
-
-## Suggested File Format
+## Folder Structure
 
 ```text
 Previous-Questions/
 ├── README.md
-├── 2026-Regular.md
-├── 2025-Regular.md
-├── 2024-Regular.md
-├── 2023-Regular.md
-└── 2022-Regular.md
+├── CITE Pre-board/
+├── 2025-Regular/
+├── 2024-Regular/
+├── 2023-Regular/
+└── 2022-Regular/
 ```
 
-## How to Use Previous Questions
+## How to Add Question Papers
 
-1. Solve each paper under examination conditions.
-2. Identify repeated concepts and question patterns.
-3. Link questions to the relevant syllabus units.
-4. Practise C++ programs by compiling and running them.
-5. Record difficult questions for revision.
+- Add College of Information Technology & Engineering (CITE) internal pre-board papers to `CITE Pre-board/`.
+- Add PU regular final examination papers to the matching year folder.
+- Keep scanned question papers in PDF or image format.
+- Use clear filenames, for example `BIT154CO_2025_Regular.pdf`.
 
-## Contribution
+> **Verification:** Only identify a document as an official PU final paper when its university, course code, semester, year, and examination type have been checked. CITE pre-board papers are internal college papers, not PU final examination papers.
 
-If you have a clear scan or PDF of an authentic PU BIT154CO final question paper, add it here with its year and examination type.
+## Paper Availability
+
+Question papers will be added as authentic copies become available. The folders below provide the intended organization.
