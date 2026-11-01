@@ -6,7 +6,7 @@ This folder stores Purbanchal University (PU) BIT BIT151HS – Mathematics-II qu
 
 ```text
 Previous-Questions/
-  ├── README.md/
+  └── README.md/
     ├── 2025-Regular
     ├── 2024-Regular
     ├── 2023-Regular
