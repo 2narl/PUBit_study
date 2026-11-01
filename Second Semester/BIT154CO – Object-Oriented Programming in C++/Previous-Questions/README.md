@@ -7,7 +7,6 @@ This folder stores Purbanchal University (PU) BIT BIT154CO – Object-Oriented P
 ```text
 Previous-Questions/
 ├── README.md
-├── CITE Pre-board/
 ├── 2025-Regular/
 ├── 2024-Regular/
 ├── 2023-Regular/
