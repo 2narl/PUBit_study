@@ -6,12 +6,11 @@ This folder stores Purbanchal University (PU) BIT BIT152CO – Digital Logic que
 
 ```text
 Previous-Questions/
-├── README.md
-├── CITE Pre-board/
-├── 2025-Regular/
-├── 2024-Regular/
-├── 2023-Regular/
-└── 2022-Regular/
+└── README.md/
+  ├── 2025-Regular
+  ├── 2024-Regular
+  ├── 2023-Regular
+  └── 2022-Regular
 ```
 
 ## How to Add Question Papers
