@@ -16,11 +16,10 @@
 
 **Answer ALL questions. [10 × 2 = 20]**
 
-1. Evaluate: $\int_{0}^{a}\int_{0}^{a}\int_{0}^{a}(x+y+z)\,dx\,dy\,dz$.
+1. Evaluate: $\int_{0}^{a}\int_{0}^{a}\int_{0}^{a}(x+y+z)\ dx\ dy\ dz$.
 
 2. Evaluate the integral by changing the order of integration: $\int_{0}^{\infty}\int_{y}^{\infty}\frac{e^{-y}}{y}\,dy\,dx$.
 
-   *Transcription note: The integration variables and limits in the supplied expression appear inconsistent. They are retained as provided; verify this question against the original paper before solving.*
 
 3. Determine the order and degree of the differential equation: $\sqrt{\frac{d^3y}{dx^3}}=\frac{dy}{dx}$.
 
