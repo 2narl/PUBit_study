@@ -40,28 +40,15 @@
 
 **Answer EIGHT questions. (8 × 5 = 40)**
 
-11. Define the Fourier integral of the function. Find the Fourier integral of the function
-   $$
-   f(x)=
-   \begin{cases}
-   x, & \text{for } |x|<1\\
-   0, & \text{for } |x|>1
-   \end{cases}
-   $$
+11. Define the Fourier integral of the function. Find the Fourier integral of the function $f(x)=x$ for $|x|<1$, and $f(x)=0$ for $|x|>1$.
 
 12. Solve: $y''-2y'-4x=0$, with $y(0)=1$.
 
-13. Find the general solution of the differential equation:
-   $$
-   \frac{d^2y}{dx^2}-13\frac{dy}{dx}+12y=e^{-2x}
-   $$
+13. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-13\frac{dy}{dx}+12y=e^{-2x}$.
 
 14. Find the Fourier series for the function $f(x)=x^2,\;0\le x\le\pi$.
 
-15. Obtain the half-range cosine series for $f(x)=\sin x$ in $0\le x\le\pi$ and hence show that
-   $$
-   \sum_{n=1}^{\infty}\frac{1}{4n^2-1}=\frac{1}{2}.
-   $$
+15. Obtain the half-range cosine series for $f(x)=\sin x$ in $0\le x\le\pi$ and hence show that $\sum_{n=1}^{\infty}\frac{1}{4n^2-1}=\frac{1}{2}$.
 
 16. Verify Cauchy-Riemann equation for the function $f(z)=e^x(\cos y+i\sin y)$.
 
@@ -81,19 +68,9 @@
 
 21. Solve: $\frac{dy}{dx}=\frac{x+2y-3}{2x+y-3}$.
 
-22. Find the general solution of the differential equation:
-   $$
-   \frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin^2x
-   $$
+22. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin^2x$.
 
-23. Obtain the Fourier series for:
-   $$
-   f(x)=
-   \begin{cases}
-   x, & \text{for } -1<x\le 0\\
-   x+2, & \text{for } 0<x\le 1
-   \end{cases}
-   $$
+23. Obtain the Fourier series for $f(x)=x$ when $-1<x\le 0$, and $f(x)=x+2$ when $0<x\le 1$.
 
 24. Find an analytic function $f(z)$ whose real part is $u(x,y)=e^x\sin y$.
 
