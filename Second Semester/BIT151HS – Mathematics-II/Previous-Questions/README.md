@@ -1,159 +1,84 @@
 # PURBANCHAL UNIVERSITY
 
-## 2022
+## 2025
 
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
-**BIT151HS: Mathematics-II (New Course)**  
-**Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
+**Time:** 03:00 hrs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Full Marks:** 80 / **Pass Marks:** 32  
+**BIT151HS: Mathematics-II (New Course)**
 
-*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+*Candidates are required to give their answers in their own words as far as practicable. Figure in the margin indicate full marks.*
 
 ---
 
 ## Group A
 
-**Answer TWO questions. [2 × 10 = 20]**
+**Answer ALL questions. (10 × 2 = 20)**
 
-1. Evaluate the double integral: $\int_{0}^{1}\int_{1}^{2}(x^2+y^2)\,dx\,dy$.
+1. Evaluate: $\int_{0}^{a}\int_{0}^{b}(x^2+y^2)\,dx\,dy$
 
-2. Define Taylor's theorem and Laurent's series.
+2. Evaluate: $\int_{0}^{1}\int_{0}^{2}\int_{0}^{3}xyz\,dx\,dy\,dz$
 
-3. Determine the order and degree of the differential equation: $\sqrt{\frac{d^3y}{dx^3}}=\frac{dy}{dx}$.
+3. Solve: $\sqrt{1-x^2}\,dy+\sqrt{1-y^2}\,dx=0$
 
-4. Solve: $(x+1)\,dy+(y-1)\,dx=0$.
+4. Solve: $P^2-y^2=0$, where $P=\frac{dy}{dx}$.
 
-5. Find the general solution of the differential equation: $y''+4y'+5y=0$.
+5. Solve: $y''-3y'+2y=0$
 
-6. Define odd and even functions with examples.
+6. Define even and odd function with examples.
 
-7. If $f(z)$ is differentiable at $z_0$, show that $f(z)$ is continuous at $z=z_0$.
+7. Express the function $f(z)=e^z$ in the form of $u(x,y)+iv(x,y)$.
 
-8. Express the function $f(z)=z^2$ in the form $u(x,y)+iv(x,y)$.
+8. Find the derivative of $z^2$ at $z=z_0$.
 
-9. Define isolated singularity with an example.
+9. Find the zeros of the function $f(z)=(z-3)\sin\left(\frac{1}{z-2}\right)$.
 
-10. Show that $f(z)=\frac{z^2-2z+5}{z-2}$ has a simple pole at $z=2$.
-
----
-
-## Group B
-
-**Answer EIGHT questions. [8 × 5 = 40]**
-
-11. Find by double integration the area which lies inside the cardioid $r=a(1+\cos\theta)$ and outside the circle $r=a$.
-
-12. Solve: $\frac{dy}{dx}=\frac{x^2+xy+y^2}{x^2}$.
-
-13. Find the orthogonal trajectories of the family of curves given by $y=kx^2$, $k\ne0$.
-
-14. Solve: $\frac{d^2y}{dx^2}+2\frac{dy}{dx}+y=2x+x^2$.
-
-15. Find the Fourier series for the function $f(x)=-1$ for $0\leq x\leq\pi$, and $f(x)=1$ for $\pi\leq x<2\pi$.
-
-16. Expand $f(x)=x$ as a cosine series in $0\leq x\leq\pi$ and hence show that $\sum_{n=1}^{\infty}\frac{1}{(2n-1)^2}=\frac{\pi^2}{8}$.
-
-17. State and prove the Cauchy–Riemann equations.
-
-18. Expand $f(z)=\frac{1}{z}$ by Taylor's series about the point $z=1$.
-
-19. Show that $f(z)=\frac{1-e^{2z}}{z^3}$ has a pole of order 2 at $z=0$.
-
-20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
-
----
-
-## Group C
-
-**Answer FOUR questions. [4 × 5 = 20]**
-
-21. Find the volume bounded by the sphere $x^2+y^2+z^2=a^2$ using a triple integral.
-
-22. Solve: $\frac{d^2y}{dx^2}+4\frac{dy}{dx}+4y=e^{3x}+\cos5x$.
-
-23. Find the Fourier transform of $f(x)=1-x^2$ for $-1<x<1$, and $f(x)=0$ otherwise.
-
-24. Show that $u=e^x\cos y$ is harmonic and find an analytic function.
-
-25. Obtain the Laurent series of $f(z)=\frac{\sin z}{z^6}$ and hence show that
-$\int_C\frac{\sin z}{z^6}\,dz=\frac{\pi i}{60}$,
-where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
-
-
----
-
-# PURBANCHAL UNIVERSITY
-
-## 2021
-
-**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
-**BIT102HS: Mathematics-II (New Course)**  
-**Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
-
-*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
-
----
-
-## Group A
-
-**Answer TWO questions. [2 × 10 = 20]**
-
-1. Find the solution of the differential equation: $(x+1)\,dy+(y-1)\,dx=0$.
-
-2. Find the inverse Laplace transform of $\frac{1}{s^3+3s+2}$.
-
-3. Express $f(z)=\log z$ in the form $u(x,y)+iv(x,y)$.
-
-4. Find the Fourier expansion of the function $f(x)=2x$ in the interval $0\leq x\leq2\pi$.
-
-5. Find the general solution of the partial differential equation: $ap+bq=c$.
-
-6. Evaluate $\int_C f(z)\,dz$, when $f(z)=\frac{1}{z-a}$ and $C$ is the circle with centre at $a$ and radius $r$.
-
-7. Calculate the residue of $f(z)=\frac{1}{z^2+1}$ at $z=i$.
-
-8. Find the Laplace transform of $e^{2t}\cos3t$.
-
-9. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+2y=0$.
-
-10. Define Fourier cosine and sine integrals of $f(x)$.
+10. Determine the order of the pole of the function $f(z)=\frac{\sinh z}{z^5}$.
 
 ---
 
 ## Group B
 
-**Answer EIGHT questions. [8 × 5 = 40]**
+**Answer EIGHT questions. (8 × 5 = 40)**
 
-11. Solve the differential equation: $\frac{dy}{dx}=\frac{2xy}{x^2-y^2}$.
+11. Define the Fourier integral of the function. Find the Fourier integral of the function $f(x)=x$ for $|x|<1$, and $f(x)=0$ for $|x|>1$.
 
-12. Solve the second-order differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin x$.
+12. Solve: $y''-2y'-4x=0$, with $y(0)=1$.
 
-13. Solve: $x\,dy-y\,dx=\sqrt{x^2+y^2}\,dx$.
+13. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-13\frac{dy}{dx}+12y=e^{-2x}$.
 
-14. Find the Laplace transform of $t\,e^{-t}\cos t$.
+14. Find the Fourier series for the function $f(x)=x^2,\;0\le x\le\pi$.
 
-15. Find the inverse Laplace transform of $\frac{2s+3}{(s-1)(s-2)(s-3)}$.
+15. Obtain the half-range cosine series for $f(x)=\sin x$ in $0\le x\le\pi$ and hence show that $\sum_{n=1}^{\infty}\frac{1}{4n^2-1}=\frac{1}{2}$.
 
-16. Expand $f(x)=x^2$, $0\leq x\leq\pi$, in a Fourier cosine series and deduce that $\sum_{n=1}^{\infty}\frac{1}{n^2}=\frac{\pi^2}{6}$.
+16. Verify Cauchy-Riemann equation for the function $f(z)=e^x(\cos y+i\sin y)$.
 
-17. Verify the Cauchy–Riemann equations for $e^x(\cos y+i\sin y)$.
+17. Find the Laurent's series for $f(z)=\frac{1}{(1-z)(z+2)}$ valid for the domain $1<|z|<2$.
 
-18. Obtain the Laurent series for $f(z)=\frac{1}{(1-z)(2-z)}$ in the domain $1<|z|<2$.
+18. Solve: $x\frac{dy}{dx}+2y=x^2\log x$.
 
-19. Solve the partial differential equation $p^2+q^2=z$.
+19. Find by double integration, the area which lies inside the cardioid $r=a(1+\cos\theta)$ and outside the circle $r=a$.
+
+20. Solve: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+5y=10\sin x$.
 
 ---
 
 ## Group C
 
-**Answer TWO questions. [2 × 10 = 20]**
+**Answer FOUR questions. (4 × 5 = 20)**
 
-20. Solve the differential equation by the Laplace transform method: $\frac{d^2y}{dt^2}+2\frac{dy}{dt}+5y=e^{-t}\sin t$, with $y(0)=0$ and $y'(0)=1$.
+21. Solve: $\frac{dy}{dx}=\frac{x+2y-3}{2x+y-3}$.
 
-21. (a) Find an analytic function $f(z)=u+iv$, if $u=e^x\sin y$.  
-    (b) Find the Fourier sine integral of $f(x)=x^2$ for $0<x<b$, and $f(x)=0$ for $x>b$.
+22. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin^2x$.
 
-22. Obtain the general solution of the wave equation $\frac{\partial^2u}{\partial t^2}=c^2\frac{\partial^2u}{\partial x^2}$ using the variable separation method.
+23. Obtain the Fourier series for $f(x)=x$ when $-1<x\le 0$, and $f(x)=x+2$ when $0<x\le 1$.
 
+24. Find an analytic function $f(z)$ whose real part is $u(x,y)=e^x\sin y$.
+
+25. Find the residue of $f(z)=\frac{3z-4}{z(z-1)(z-2)}$ at each of its poles.
+
+---
+
+*Source note: This paper is transcribed from the question text supplied for this repository. Please compare it with the original question-paper scan before treating the transcription as an authenticated official copy.*
 
 ---
 
@@ -239,6 +164,8 @@ where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
 ---
 
+---
+
 # PURBANCHAL UNIVERSITY
 
 ## 2023
@@ -321,84 +248,165 @@ where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
 ---
 
+---
+
 # PURBANCHAL UNIVERSITY
 
-## 2025
+## 2022
 
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
-**Time:** 03:00 hrs. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Full Marks:** 80 / **Pass Marks:** 32  
-**BIT151HS: Mathematics-II (New Course)**
+**BIT151HS: Mathematics-II (New Course)**  
+**Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
 
-*Candidates are required to give their answers in their own words as far as practicable. Figure in the margin indicate full marks.*
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
 
 ---
 
 ## Group A
 
-**Answer ALL questions. (10 × 2 = 20)**
+**Answer TWO questions. [2 × 10 = 20]**
 
-1. Evaluate: $\int_{0}^{a}\int_{0}^{b}(x^2+y^2)\,dx\,dy$
+1. Evaluate the double integral: $\int_{0}^{1}\int_{1}^{2}(x^2+y^2)\,dx\,dy$.
 
-2. Evaluate: $\int_{0}^{1}\int_{0}^{2}\int_{0}^{3}xyz\,dx\,dy\,dz$
+2. Define Taylor's theorem and Laurent's series.
 
-3. Solve: $\sqrt{1-x^2}\,dy+\sqrt{1-y^2}\,dx=0$
+3. Determine the order and degree of the differential equation: $\sqrt{\frac{d^3y}{dx^3}}=\frac{dy}{dx}$.
 
-4. Solve: $P^2-y^2=0$, where $P=\frac{dy}{dx}$.
+4. Solve: $(x+1)\,dy+(y-1)\,dx=0$.
 
-5. Solve: $y''-3y'+2y=0$
+5. Find the general solution of the differential equation: $y''+4y'+5y=0$.
 
-6. Define even and odd function with examples.
+6. Define odd and even functions with examples.
 
-7. Express the function $f(z)=e^z$ in the form of $u(x,y)+iv(x,y)$.
+7. If $f(z)$ is differentiable at $z_0$, show that $f(z)$ is continuous at $z=z_0$.
 
-8. Find the derivative of $z^2$ at $z=z_0$.
+8. Express the function $f(z)=z^2$ in the form $u(x,y)+iv(x,y)$.
 
-9. Find the zeros of the function $f(z)=(z-3)\sin\left(\frac{1}{z-2}\right)$.
+9. Define isolated singularity with an example.
 
-10. Determine the order of the pole of the function $f(z)=\frac{\sinh z}{z^5}$.
+10. Show that $f(z)=\frac{z^2-2z+5}{z-2}$ has a simple pole at $z=2$.
 
 ---
 
 ## Group B
 
-**Answer EIGHT questions. (8 × 5 = 40)**
+**Answer EIGHT questions. [8 × 5 = 40]**
 
-11. Define the Fourier integral of the function. Find the Fourier integral of the function $f(x)=x$ for $|x|<1$, and $f(x)=0$ for $|x|>1$.
+11. Find by double integration the area which lies inside the cardioid $r=a(1+\cos\theta)$ and outside the circle $r=a$.
 
-12. Solve: $y''-2y'-4x=0$, with $y(0)=1$.
+12. Solve: $\frac{dy}{dx}=\frac{x^2+xy+y^2}{x^2}$.
 
-13. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-13\frac{dy}{dx}+12y=e^{-2x}$.
+13. Find the orthogonal trajectories of the family of curves given by $y=kx^2$, $k\ne0$.
 
-14. Find the Fourier series for the function $f(x)=x^2,\;0\le x\le\pi$.
+14. Solve: $\frac{d^2y}{dx^2}+2\frac{dy}{dx}+y=2x+x^2$.
 
-15. Obtain the half-range cosine series for $f(x)=\sin x$ in $0\le x\le\pi$ and hence show that $\sum_{n=1}^{\infty}\frac{1}{4n^2-1}=\frac{1}{2}$.
+15. Find the Fourier series for the function $f(x)=-1$ for $0\leq x\leq\pi$, and $f(x)=1$ for $\pi\leq x<2\pi$.
 
-16. Verify Cauchy-Riemann equation for the function $f(z)=e^x(\cos y+i\sin y)$.
+16. Expand $f(x)=x$ as a cosine series in $0\leq x\leq\pi$ and hence show that $\sum_{n=1}^{\infty}\frac{1}{(2n-1)^2}=\frac{\pi^2}{8}$.
 
-17. Find the Laurent's series for $f(z)=\frac{1}{(1-z)(z+2)}$ valid for the domain $1<|z|<2$.
+17. State and prove the Cauchy–Riemann equations.
 
-18. Solve: $x\frac{dy}{dx}+2y=x^2\log x$.
+18. Expand $f(z)=\frac{1}{z}$ by Taylor's series about the point $z=1$.
 
-19. Find by double integration, the area which lies inside the cardioid $r=a(1+\cos\theta)$ and outside the circle $r=a$.
+19. Show that $f(z)=\frac{1-e^{2z}}{z^3}$ has a pole of order 2 at $z=0$.
 
-20. Solve: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+5y=10\sin x$.
+20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
 
 ---
 
 ## Group C
 
-**Answer FOUR questions. (4 × 5 = 20)**
+**Answer FOUR questions. [4 × 5 = 20]**
 
-21. Solve: $\frac{dy}{dx}=\frac{x+2y-3}{2x+y-3}$.
+21. Find the volume bounded by the sphere $x^2+y^2+z^2=a^2$ using a triple integral.
 
-22. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin^2x$.
+22. Solve: $\frac{d^2y}{dx^2}+4\frac{dy}{dx}+4y=e^{3x}+\cos5x$.
 
-23. Obtain the Fourier series for $f(x)=x$ when $-1<x\le 0$, and $f(x)=x+2$ when $0<x\le 1$.
+23. Find the Fourier transform of $f(x)=1-x^2$ for $-1<x<1$, and $f(x)=0$ otherwise.
 
-24. Find an analytic function $f(z)$ whose real part is $u(x,y)=e^x\sin y$.
+24. Show that $u=e^x\cos y$ is harmonic and find an analytic function.
 
-25. Find the residue of $f(z)=\frac{3z-4}{z(z-1)(z-2)}$ at each of its poles.
+25. Obtain the Laurent series of $f(z)=\frac{\sin z}{z^6}$ and hence show that
+$\int_C\frac{\sin z}{z^6}\,dz=\frac{\pi i}{60}$,
+where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
+
 
 ---
 
-*Source note: This paper is transcribed from the question text supplied for this repository. Please compare it with the original question-paper scan before treating the transcription as an authenticated official copy.*
+---
+
+# PURBANCHAL UNIVERSITY
+
+## 2021
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**BIT102HS: Mathematics-II (New Course)**  
+**Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
+
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+
+---
+
+## Group A
+
+**Answer TWO questions. [2 × 10 = 20]**
+
+1. Find the solution of the differential equation: $(x+1)\,dy+(y-1)\,dx=0$.
+
+2. Find the inverse Laplace transform of $\frac{1}{s^3+3s+2}$.
+
+3. Express $f(z)=\log z$ in the form $u(x,y)+iv(x,y)$.
+
+4. Find the Fourier expansion of the function $f(x)=2x$ in the interval $0\leq x\leq2\pi$.
+
+5. Find the general solution of the partial differential equation: $ap+bq=c$.
+
+6. Evaluate $\int_C f(z)\,dz$, when $f(z)=\frac{1}{z-a}$ and $C$ is the circle with centre at $a$ and radius $r$.
+
+7. Calculate the residue of $f(z)=\frac{1}{z^2+1}$ at $z=i$.
+
+8. Find the Laplace transform of $e^{2t}\cos3t$.
+
+9. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+2y=0$.
+
+10. Define Fourier cosine and sine integrals of $f(x)$.
+
+---
+
+## Group B
+
+**Answer EIGHT questions. [8 × 5 = 40]**
+
+11. Solve the differential equation: $\frac{dy}{dx}=\frac{2xy}{x^2-y^2}$.
+
+12. Solve the second-order differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin x$.
+
+13. Solve: $x\,dy-y\,dx=\sqrt{x^2+y^2}\,dx$.
+
+14. Find the Laplace transform of $t\,e^{-t}\cos t$.
+
+15. Find the inverse Laplace transform of $\frac{2s+3}{(s-1)(s-2)(s-3)}$.
+
+16. Expand $f(x)=x^2$, $0\leq x\leq\pi$, in a Fourier cosine series and deduce that $\sum_{n=1}^{\infty}\frac{1}{n^2}=\frac{\pi^2}{6}$.
+
+17. Verify the Cauchy–Riemann equations for $e^x(\cos y+i\sin y)$.
+
+18. Obtain the Laurent series for $f(z)=\frac{1}{(1-z)(2-z)}$ in the domain $1<|z|<2$.
+
+19. Solve the partial differential equation $p^2+q^2=z$.
+
+---
+
+## Group C
+
+**Answer TWO questions. [2 × 10 = 20]**
+
+20. Solve the differential equation by the Laplace transform method: $\frac{d^2y}{dt^2}+2\frac{dy}{dt}+5y=e^{-t}\sin t$, with $y(0)=0$ and $y'(0)=1$.
+
+21. (a) Find an analytic function $f(z)=u+iv$, if $u=e^x\sin y$.  
+    (b) Find the Fourier sine integral of $f(x)=x^2$ for $0<x<b$, and $f(x)=0$ for $x>b$.
+
+22. Obtain the general solution of the wave equation $\frac{\partial^2u}{\partial t^2}=c^2\frac{\partial^2u}{\partial x^2}$ using the variable separation method.
+
+
+---
