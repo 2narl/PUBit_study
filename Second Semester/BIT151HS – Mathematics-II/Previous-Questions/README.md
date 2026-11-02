@@ -58,13 +58,13 @@
 
 19. Show that $f(z)=\frac{1-e^{2z}}{z^3}$ has a pole of order 2 at $z=0$.
 
-20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
-
 ---
 
 ## Group C
 
 **Answer FOUR questions. [4 × 5 = 20]**
+
+20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
 
 21. Find the volume bounded by the sphere $x^2+y^2+z^2=a^2$ using a triple integral.
 
