@@ -78,9 +78,6 @@
 $\int_C\frac{\sin z}{z^6}\,dz=\frac{\pi i}{60}$,
 where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
----
-
-*Source note: This paper is transcribed from the question text supplied for this repository. Please compare it with the original question-paper scan before treating it as an authenticated official copy.*
 
 ---
 
@@ -157,9 +154,6 @@ where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
 22. Obtain the general solution of the wave equation $\frac{\partial^2u}{\partial t^2}=c^2\frac{\partial^2u}{\partial x^2}$ using the variable separation method.
 
----
-
-*Transcription note: The course code is reproduced exactly as supplied (BIT102HS). Please verify it against the original 2021 paper, since later Mathematics-II papers in this folder use BIT151HS. The Group A instruction says “Answer TWO questions” while listing ten questions; this has been retained as supplied.*
 
 ---
 
@@ -242,9 +236,6 @@ where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
 25. Find the residue of $f(z)=\frac{z}{(z-1)(z-2)^2}$ at its poles.
 
----
-
-*Source note: This paper is transcribed from the question text supplied for this repository. Please compare it with the original question-paper scan before treating it as an authenticated official copy.*
 
 ---
 
@@ -326,9 +317,7 @@ where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
 24. Find the Taylor expansion of $\frac{2z^3+1}{z^2+2}$ about the point $z=i$.
 
----
 
-*Source note: This paper is transcribed from the question text supplied for this repository. Please compare it with the original question-paper scan before treating it as an authenticated official copy.*
 
 ---
 
