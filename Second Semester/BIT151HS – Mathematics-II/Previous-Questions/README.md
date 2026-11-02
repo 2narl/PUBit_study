@@ -1,5 +1,91 @@
 # PURBANCHAL UNIVERSITY
 
+## 2022
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**BIT151HS: Mathematics-II (New Course)**  
+**Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
+
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+
+---
+
+## Group A
+
+**Answer TWO questions. [2 × 10 = 20]**
+
+1. Evaluate the double integral: $\int_{0}^{1}\int_{1}^{2}(x^2+y^2)\,dx\,dy$.
+
+2. Define Taylor's theorem and Laurent's series.
+
+3. Determine the order and degree of the differential equation: $\sqrt{\frac{d^3y}{dx^3}}=\frac{dy}{dx}$.
+
+4. Solve: $(x+1)\,dy+(y-1)\,dx=0$.
+
+5. Find the general solution of the differential equation: $y''+4y'+5y=0$.
+
+6. Define odd and even functions with examples.
+
+7. If $f(z)$ is differentiable at $z_0$, show that $f(z)$ is continuous at $z=z_0$.
+
+8. Express the function $f(z)=z^2$ in the form $u(x,y)+iv(x,y)$.
+
+9. Define isolated singularity with an example.
+
+10. Show that $f(z)=\frac{z^2-2z+5}{z-2}$ has a simple pole at $z=2$.
+
+---
+
+## Group B
+
+**Answer EIGHT questions. [8 × 5 = 40]**
+
+11. Find by double integration the area which lies inside the cardioid $r=a(1+\cos\theta)$ and outside the circle $r=a$.
+
+12. Solve: $\frac{dy}{dx}=\frac{x^2+xy+y^2}{x^2}$.
+
+13. Find the orthogonal trajectories of the family of curves given by $y=kx^2$, $k\ne0$.
+
+14. Solve: $\frac{d^2y}{dx^2}+2\frac{dy}{dx}+y=2x+x^2$.
+
+15. Find the Fourier series for the function $f(x)=-1$ for $0\leq x\leq\pi$, and $f(x)=1$ for $\pi\leq x<2\pi$.
+
+16. Expand $f(x)=x$ as a cosine series in $0\leq x\leq\pi$ and hence show that $\sum_{n=1}^{\infty}\frac{1}{(2n-1)^2}=\frac{\pi^2}{8}$.
+
+17. State and prove the Cauchy–Riemann equations.
+
+18. Expand $f(z)=\frac{1}{z}$ by Taylor's series about the point $z=1$.
+
+19. Show that $f(z)=\frac{1-e^{2z}}{z^3}$ has a pole of order 2 at $z=0$.
+
+20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
+
+---
+
+## Group C
+
+**Answer FOUR questions. [4 × 5 = 20]**
+
+21. Find the volume bounded by the sphere $x^2+y^2+z^2=a^2$ using a triple integral.
+
+22. Solve: $\frac{d^2y}{dx^2}+4\frac{dy}{dx}+4y=e^{3x}+\cos5x$.
+
+23. Find the Fourier transform of $f(x)=1-x^2$ for $-1<x<1$, and $f(x)=0$ otherwise.
+
+24. Show that $u=e^x\cos y$ is harmonic and find an analytic function.
+
+25. Obtain the Laurent series of $f(z)=\frac{\sin z}{z^6}$ and hence show that
+$\int_C\frac{\sin z}{z^6}\,dz=\frac{\pi i}{60}$,
+where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
+
+---
+
+*Source note: This paper is transcribed from the question text supplied for this repository. Please compare it with the original question-paper scan before treating it as an authenticated official copy.*
+
+---
+
+# PURBANCHAL UNIVERSITY
+
 ## 2021
 
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
