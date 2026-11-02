@@ -14,25 +14,25 @@
 
 **Answer ALL questions. (10 × 2 = 20)**
 
-1. Evaluate: \(\int_{0}^{a}\int_{0}^{b}(x^2+y^2)\,dx\,dy\)
+1. Evaluate: $\int_{0}^{a}\int_{0}^{b}(x^2+y^2)\,dx\,dy$
 
-2. Evaluate: \(\int_{0}^{1}\int_{0}^{2}\int_{0}^{3}xyz\,dx\,dy\,dz\)
+2. Evaluate: $\int_{0}^{1}\int_{0}^{2}\int_{0}^{3}xyz\,dx\,dy\,dz$
 
-3. Solve: \(\sqrt{1-x^2}\,dy+\sqrt{1-y^2}\,dx=0\)
+3. Solve: $\sqrt{1-x^2}\,dy+\sqrt{1-y^2}\,dx=0$
 
-4. Solve: \(P^2-y^2=0\), where \(P=\frac{dy}{dx}\).
+4. Solve: $P^2-y^2=0$, where $P=\frac{dy}{dx}$.
 
-5. Solve: \(y''-3y'+2y=0\)
+5. Solve: $y''-3y'+2y=0$
 
 6. Define even and odd function with examples.
 
-7. Express the function \(f(z)=e^z\) in the form of \(u(x,y)+iv(x,y)\).
+7. Express the function $f(z)=e^z$ in the form of $u(x,y)+iv(x,y)$.
 
-8. Find the derivative of \(z^2\) at \(z=z_0\).
+8. Find the derivative of $z^2$ at $z=z_0$.
 
-9. Find the zeros of the function \(f(z)=(z-3)\sin\left(\frac{1}{z-2}\right)\).
+9. Find the zeros of the function $f(z)=(z-3)\sin\left(\frac{1}{z-2}\right)$.
 
-10. Determine the order of the pole of the function \(f(z)=\frac{\sinh z}{z^5}\).
+10. Determine the order of the pole of the function $f(z)=\frac{\sinh z}{z^5}$.
 
 ---
 
@@ -42,39 +42,39 @@
 
 11. Define the Fourier integral of the function. Find the Fourier integral of the function
 
-    \[
+    $
     f(x)=
     \begin{cases}
     x, & \text{for } |x|<1\
     0, & \text{for } |x|>1
     \end{cases}
-    \]
+    $
 
-12. Solve: \(y''-2y'-4x=0\), with \(y(0)=1\).
+12. Solve: $y''-2y'-4x=0$, with $y(0)=1$.
 
 13. Find the general solution of the differential equation:
 
-    \[
+    $
     \frac{d^2y}{dx^2}-13\frac{dy}{dx}+12y=e^{-2x}
-    \]
+    $
 
-14. Find the Fourier series for the function \(f(x)=x^2,\;0\le x\le\pi\).
+14. Find the Fourier series for the function $f(x)=x^2,\;0\le x\le\pi$.
 
-15. Obtain the half-range cosine series for \(f(x)=\sin x\) in \(0\le x\le\pi\) and hence show that
+15. Obtain the half-range cosine series for $f(x)=\sin x$ in $0\le x\le\pi$ and hence show that
 
-    \[
+    $
     \sum_{n=1}^{\infty}\frac{1}{4n^2-1}=\frac{1}{2}.
-    \]
+    $
 
-16. Verify Cauchy-Riemann equation for the function \(f(z)=e^x(\cos y+i\sin y)\).
+16. Verify Cauchy-Riemann equation for the function $f(z)=e^x(\cos y+i\sin y)$.
 
-17. Find the Laurent's series for \(f(z)=\frac{1}{(1-z)(z+2)}\) valid for the domain \(1<|z|<2\).
+17. Find the Laurent's series for $f(z)=\frac{1}{(1-z)(z+2)}$ valid for the domain $1<|z|<2$.
 
-18. Solve: \(x\frac{dy}{dx}+2y=x^2\log x\).
+18. Solve: $x\frac{dy}{dx}+2y=x^2\log x$.
 
-19. Find by double integration, the area which lies inside the cardioid \(r=a(1+\cos\theta)\) and outside the circle \(r=a\).
+19. Find by double integration, the area which lies inside the cardioid $r=a(1+\cos\theta)$ and outside the circle $r=a$.
 
-20. Solve: \(\frac{d^2y}{dx^2}-2\frac{dy}{dx}+5y=10\sin x\).
+20. Solve: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+5y=10\sin x$.
 
 ---
 
@@ -82,27 +82,27 @@
 
 **Answer FOUR questions. (4 × 5 = 20)**
 
-21. Solve: \(\frac{dy}{dx}=\frac{x+2y-3}{2x+y-3}\).
+21. Solve: $\frac{dy}{dx}=\frac{x+2y-3}{2x+y-3}$.
 
 22. Find the general solution of the differential equation:
 
-    \[
+    $
     \frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin^2x
-    \]
+    $
 
 23. Obtain the Fourier series for:
 
-    \[
+    $
     f(x)=
     \begin{cases}
     x, & \text{for } -1<x\le 0\
     x+2, & \text{for } 0<x\le 1
     \end{cases}
-    \]
+    $
 
-24. Find an analytic function \(f(z)\) whose real part is \(u(x,y)=e^x\sin y\).
+24. Find an analytic function $f(z)$ whose real part is $u(x,y)=e^x\sin y$.
 
-25. Find the residue of \(f(z)=\frac{3z-4}{z(z-1)(z-2)}\) at each of its poles.
+25. Find the residue of $f(z)=\frac{3z-4}{z(z-1)(z-2)}$ at each of its poles.
 
 ---
 
