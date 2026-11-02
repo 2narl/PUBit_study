@@ -31,28 +31,19 @@ BIT155MS – Financial Management and Accounting/
 ├── Syllabus/
 ├── Notes/
 ├── Practical/
-└── Previous-Questions/
-    └── README.md
+└── 2022-Regular.md
 ```
 
 ## Previous-Year Question Papers
 
-Visit **[Previous-Questions](./Previous-Questions/)** for year-wise final examination question papers.
+- [2022 Regular Final Examination](./2022-Regular.md)
 
-Suggested filenames:
-
-- `2026-Regular.md`
-- `2025-Regular.md`
-- `2024-Regular.md`
-- `2023-Regular.md`
-- `2022-Regular.md`
-
-Only label a document as an actual PU question paper when its authenticity and course code have been verified.
+Only label a document as an actual PU question paper when its authenticity and course code have been verified. The year above follows the year printed in the supplied paper; check the original scan if a different year is intended.
 
 ## How to Prepare
 
 1. Study the concepts unit by unit.
-2. Practise numerical problems, diagrams, or circuit designs where applicable.
+2. Practise numerical problems and accounting formats.
 3. Make concise revision notes and learn important definitions.
 4. Solve authentic previous-year questions after completing the relevant topics.
 5. Revise difficult topics regularly.
