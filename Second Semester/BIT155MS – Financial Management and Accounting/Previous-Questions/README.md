@@ -87,10 +87,6 @@
 
    **Required:** EOQ, no. of orders average stock level and total cost of EOQ.
 
----
-
-*(Page 3)*
-
 8. Describe the types of the dividend policy of a firm.
 
 9. Describe the steps of preparation of cash flow statement under direct method.
