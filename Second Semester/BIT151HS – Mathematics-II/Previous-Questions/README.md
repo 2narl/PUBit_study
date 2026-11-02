@@ -33,15 +33,12 @@
 
 9. Show that the function $f(z)=\frac{\sinh(z-z_0)}{z-z_0}$ has a removable singularity at $z=z_0$.
 
-> **Transcription note:** The supplied text contains questions 1–9, although the printed instruction states 10 questions. Question 10 was not provided and has not been invented.
-
+10. Define Fourier cosine series and Fourier sine series.
 ---
 
 ## Group B
 
 **Answer EIGHT questions. [8 × 5 = 40]**
-
-10. Define Fourier cosine series and Fourier sine series.
 
 11. Solve: $x\frac{dy}{dx}-y\,dx=\sqrt{x^2+y^2}\,dx$.
 
