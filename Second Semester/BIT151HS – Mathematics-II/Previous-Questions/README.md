@@ -1,5 +1,84 @@
 # PURBANCHAL UNIVERSITY
 
+## 2021
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**BIT102HS: Mathematics-II (New Course)**  
+**Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
+
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+
+---
+
+## Group A
+
+**Answer TWO questions. [2 × 10 = 20]**
+
+1. Find the solution of the differential equation: $(x+1)\,dy+(y-1)\,dx=0$.
+
+2. Find the inverse Laplace transform of $\frac{1}{s^3+3s+2}$.
+
+3. Express $f(z)=\log z$ in the form $u(x,y)+iv(x,y)$.
+
+4. Find the Fourier expansion of the function $f(x)=2x$ in the interval $0\leq x\leq2\pi$.
+
+5. Find the general solution of the partial differential equation: $ap+bq=c$.
+
+6. Evaluate $\int_C f(z)\,dz$, when $f(z)=\frac{1}{z-a}$ and $C$ is the circle with centre at $a$ and radius $r$.
+
+7. Calculate the residue of $f(z)=\frac{1}{z^2+1}$ at $z=i$.
+
+8. Find the Laplace transform of $e^{2t}\cos3t$.
+
+9. Find the general solution of the differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+2y=0$.
+
+10. Define Fourier cosine and sine integrals of $f(x)$.
+
+---
+
+## Group B
+
+**Answer EIGHT questions. [8 × 5 = 40]**
+
+11. Solve the differential equation: $\frac{dy}{dx}=\frac{2xy}{x^2-y^2}$.
+
+12. Solve the second-order differential equation: $\frac{d^2y}{dx^2}-2\frac{dy}{dx}+4y=e^x\sin x$.
+
+13. Solve: $x\,dy-y\,dx=\sqrt{x^2+y^2}\,dx$.
+
+14. Find the Laplace transform of $t\,e^{-t}\cos t$.
+
+15. Find the inverse Laplace transform of $\frac{2s+3}{(s-1)(s-2)(s-3)}$.
+
+16. Expand $f(x)=x^2$, $0\leq x\leq\pi$, in a Fourier cosine series and deduce that $\sum_{n=1}^{\infty}\frac{1}{n^2}=\frac{\pi^2}{6}$.
+
+17. Verify the Cauchy–Riemann equations for $e^x(\cos y+i\sin y)$.
+
+18. Obtain the Laurent series for $f(z)=\frac{1}{(1-z)(2-z)}$ in the domain $1<|z|<2$.
+
+19. Solve the partial differential equation $p^2+q^2=z$.
+
+20. Solve the differential equation by the Laplace transform method: $\frac{d^2y}{dt^2}+2\frac{dy}{dt}+5y=e^{-t}\sin t$, with $y(0)=0$ and $y'(0)=1$.
+
+---
+
+## Group C
+
+**Answer TWO questions. [2 × 10 = 20]**
+
+21. (a) Find an analytic function $f(z)=u+iv$, if $u=e^x\sin y$.  
+    (b) Find the Fourier sine integral of $f(x)=x^2$ for $0<x<b$, and $f(x)=0$ for $x>b$.
+
+22. Obtain the general solution of the wave equation $\frac{\partial^2u}{\partial t^2}=c^2\frac{\partial^2u}{\partial x^2}$ using the variable separation method.
+
+---
+
+*Transcription note: The course code is reproduced exactly as supplied (BIT102HS). Please verify it against the original 2021 paper, since later Mathematics-II papers in this folder use BIT151HS. The Group A instruction says “Answer TWO questions” while listing ten questions; this has been retained as supplied.*
+
+---
+
+# PURBANCHAL UNIVERSITY
+
 ## 2024
 
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
