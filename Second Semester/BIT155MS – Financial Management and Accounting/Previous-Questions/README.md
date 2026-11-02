@@ -3,7 +3,7 @@
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
 **Time:** 03:00 hrs.  
 **Full Marks:** 80 / **Pass Marks:** 32  
-**BIT188MS / BIT191MS / BIT125MS: Financial Management & Accounting (New / Old)**
+**BIT188MS/BIT191MS/BIT125MS: Financial Management & Accounting (New/Old)**
 
 *Candidates are required to give their answers in their own words as far as practicable.*  
 *Figures in the margin indicate full marks.*
@@ -23,14 +23,14 @@
    | **Project A** | (10,000) | 3000 | 3000 | 3000 | 3000 | 3000 |
    | **Project B** | (10,000) | 3000 | 4000 | 2000 | 4000 | 3000 |
 
-   Which project would you recommend for investment? (Use PBP and NPV criteria and assume cost of capital as 10%)
+   Which project would you recommend for investment? (Use PBP and NPV chiteria and assume cost of capital as 10%)
 
 3. Following is the trial balance of a trading company as on $31^{\text{st}}$ Dec. 2020.
 
    | Debit items | Amount | Credit Items | Amount |
    | :--- | ---: | :--- | ---: |
    | Purchases | 120,000 | Capital | 200,000 |
-   | Discount allocated | 5,000 | Sales | 200,000 |
+   | Discount allocated | 5,000 | Scale | 200,000 |
    | Wages | 20,000 | Creditors | 70,000 |
    | Salaries | 50,000 | Discount Received | 30,000 |
    | Selling expenses | 5,000 | | |
@@ -39,57 +39,69 @@
    | Furniture | 50,000 | | |
    | Debtors | 50,000 | | |
    | Cash | 90,000 | | |
-   | **Total** | **500,000** | **Total** | **500,000** |
+   | | **500,000** | | **500,000** |
+
+---
+
+**Adjustments:**
+* (a) Closing stock valued Rs 30,000
+* (b) Depreciate Building and Furniture by 20% and 10% respectively
+* (c) Wages outstanding Rs 2000
+* (d) Salary includes Rs 10,000 paid as advance
+
+**Required:** Trading, profit and loss $A/c$ and Balance sheet for 2020.
+
+---
+
+## Group B
+
+**Answer EIGHT questions.** $(8 \times 7 = 56)$
+
+4. Following are the net cash flows of a project:
+
+   | Year | 0 | 1 | 2 | 3 | 4 | 5 |
+   | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+   | **Net cash flows** | (1000) | 200 | 300 | 400 | 300 | 200 |
+
+   **Required:** Internal rate of return of the project.
+
+5. Following information provided:
+
+   | Year | 1 | 2 | 3 | 4 | 5 |
+   | :--- | :---: | :---: | :---: | :---: | :---: |
+   | **Cash flows** | (1000) | 2000 | 3000 | 4000 | 5000 |
+
+   **Required:** Future value at the end of year 5 (assume $I = 10\%$ pa)
+
+6. Journalize the following transactions:
+   * (a) Purchased goods for cash Rs 10000
+   * (b) Cash sales Rs. 8000
+   * (c) Cash deposited into bank Rs 6000
+   * (d) Purchased furniture from Hari Rs. 10,000
+   * (e) Paid for salaries Rs. 10,000 and wages Rs 5,000
+
+7. Following information provided:
+   * Annual requirement = 18000 units.
+   * Ordering cost = Rs. 100 per order
+   * Carrying cost = Rs 10 per unit per year
+
+   **Required:** EOQ, no. of orders average stock level and total cost of EOQ.
 
 ---
 
 *(Page 3)*
 
-   * **Ashad 19:** Withdrawn cash from bank for office use Rs 15,000
-   * **Ashad 25:** Cash paid into bank Rs 5,000
-   * **Ashad 30:** Purchase goods from Mr. S Rs 25,000 and issue a cheque of Rs 15,000
-   
-   **Required:** Triple Column Cash Book
+8. Describe the types of the dividend policy of a firm.
 
-5. Following financial transactions are given to you:
-   * **1 Jan 2021:** Goods purchases from Sailesh Rs 100,000, partial payment Rs 60,000 on cash
-   * **5 Jan 2021:** Cash withdraw from bank for office use Rs 20,000 and for private use Rs 15,000
-   * **8 Jan 2021:** Goods sold to Harish Rs 60,000 on which Rs 40,000 received in cash
-   * **11 Jan 2021:** Cash deposited into bank Rs 10,000
-   * **15 Jan 2021:** Cash paid to Sailesh Rs 38,000 in full settlement of his account
-   * **18 Jan 2021:** Cheque received from Harish Rs 19,000 in full settlement of his account
-   
-   **Required:** Journal Entries
+9. Describe the steps of preparation of cash flow statement under direct method.
 
-6. You have borrowed Rs 15,000 at a compound annual interest rate of 16 percent. You feel that you will be able to make annual payments of Rs 3,000 per year on your loan. How long will it take to paid off the entire loan?
+10. Point out the uses and limitations of ratio analysis.
 
-7. The following information is given:
+11. Write down the rules of double entry-equation rule and types of account rule.
 
-   * Inventory: Rs 20,000
-   * Creditors: Rs 30,000
-   * Debtors: Rs 30,000
-   * Cash Balance: Rs 10,000
-   * Bills receivable: Rs 10,000
-   * Fixed Assets: Rs 60,000
-   * Debtors turnover: 4 times
-   * Gross Profit: Rs 25,000
+12. Describe the various types of costs encountered while managing receivable by a firm.
 
-   **Required:**
-   * (i) Current Ratio
-   * (ii) Quick Ratio
-   * (iii) Sales Amount
-   * (iv) Inventory Turnover Ratio
-   * (v) Gross Profit Margin
-
-8. A Company uses 96,000 units of an item annually. The ordering cost is Rs 45 per order and the carrying cost is 24 percent of the cost on an item. If the cost price is Rs 1 per unit, determine Economic Order Quantity (EOQ), No. of order, total cost of EOQ.
-
-9. What are the factors affecting capital structure? Explain.
-
-10. Differentiate between stock dividends and stock splits.
-
-11. What is cash flow statement? Describe the importance of cash flow statement.
-
-12. What are the rules of double entry system? Explain.
+13. Describe the various factors influencing the working capital requirements of a firm.
 
 
 ---
