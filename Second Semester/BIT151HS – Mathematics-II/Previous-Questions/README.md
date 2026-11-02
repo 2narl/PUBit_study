@@ -58,13 +58,13 @@
 
 19. Show that $f(z)=\frac{1-e^{2z}}{z^3}$ has a pole of order 2 at $z=0$.
 
+20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
+
 ---
 
 ## Group C
 
 **Answer FOUR questions. [4 × 5 = 20]**
-
-20. Find the residue of $f(z)=\frac{3z-4}{(z-1)(z-2)}$.
 
 21. Find the volume bounded by the sphere $x^2+y^2+z^2=a^2$ using a triple integral.
 
@@ -144,13 +144,13 @@ where $C$ is the circle $|z|=2$ taken in the counter-clockwise sense.
 
 19. Solve the partial differential equation $p^2+q^2=z$.
 
-20. Solve the differential equation by the Laplace transform method: $\frac{d^2y}{dt^2}+2\frac{dy}{dt}+5y=e^{-t}\sin t$, with $y(0)=0$ and $y'(0)=1$.
-
 ---
 
 ## Group C
 
 **Answer TWO questions. [2 × 10 = 20]**
+
+20. Solve the differential equation by the Laplace transform method: $\frac{d^2y}{dt^2}+2\frac{dy}{dt}+5y=e^{-t}\sin t$, with $y(0)=0$ and $y'(0)=1$.
 
 21. (a) Find an analytic function $f(z)=u+iv$, if $u=e^x\sin y$.  
     (b) Find the Fourier sine integral of $f(x)=x^2$ for $0<x<b$, and $f(x)=0$ for $x>b$.
