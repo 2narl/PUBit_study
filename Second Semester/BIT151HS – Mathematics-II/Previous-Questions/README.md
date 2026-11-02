@@ -45,7 +45,7 @@
 $$
 f(x)=
 \begin{cases}
-x, & \text{for } |x|<1\
+x, & \text{for } |x|<1\\
 0, & \text{for } |x|>1
 \end{cases}
 
