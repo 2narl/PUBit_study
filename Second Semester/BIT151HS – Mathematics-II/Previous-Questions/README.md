@@ -45,7 +45,7 @@
     \[
     f(x)=
     \begin{cases}
-    x, & \text{for } |x|<1\\
+    x, & \text{for } |x|<1\
     0, & \text{for } |x|>1
     \end{cases}
     \]
@@ -95,7 +95,7 @@
     \[
     f(x)=
     \begin{cases}
-    x, & \text{for } -1<x\le 0\\
+    x, & \text{for } -1<x\le 0\
     x+2, & \text{for } 0<x\le 1
     \end{cases}
     \]
