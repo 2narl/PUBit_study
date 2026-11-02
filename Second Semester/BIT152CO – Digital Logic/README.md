@@ -5,57 +5,37 @@
 **Year:** I  
 **Semester:** II
 
-This course introduces digital systems and the logical principles used in computer hardware. It covers number systems, Boolean algebra, logic gates, combinational circuits, and sequential circuits. Refer to the official PU syllabus for the complete unit-wise contents and teaching hours.
+## Course Overview
 
-## Course Contents
+Digital Logic introduces the number systems, Boolean principles, and logic circuits used to design and understand digital computer hardware.
 
-The following topics provide a brief study overview and are not a substitute for the official syllabus:
+## Main Topics
 
-1. Number Systems and Codes
-2. Boolean Algebra and Logic Gates
-3. Karnaugh Maps (K-Maps)
-4. Combinational Logic Circuits
-5. Adders, Subtractors and Comparators
-6. Encoders, Decoders, Multiplexers and Demultiplexers
-7. Sequential Logic Circuits
-8. Flip-Flops and Related Circuits
+- Number systems and codes
+- Boolean algebra and logic gates
+- Karnaugh maps (K-maps)
+- Combinational logic circuits
+- Adders, subtractors, and comparators
+- Encoders, decoders, multiplexers, and demultiplexers
+- Sequential logic circuits
+- Latches and flip-flops
 
-> **Note:** Always follow the latest official Purbanchal University syllabus for exact unit titles, topic coverage, teaching hours, and examination structure.
+*Use the latest official Purbanchal University syllabus as the authority for exact unit titles, topic coverage, and teaching hours.*
 
 ## Folder Structure
 
 ```text
 BIT152CO – Digital Logic/
 ├── README.md
-├── Syllabus/
-├── Notes/
-├── Practical/
 └── Previous-Questions/
     └── README.md
 ```
 
-## Previous-Year Question Papers
+## Previous Questions
 
-Visit **[Previous-Questions](./Previous-Questions/)** for year-wise final examination question papers.
-
-Suggested filenames:
-
-- `2026-Regular.md`
-- `2025-Regular.md`
-- `2024-Regular.md`
-- `2023-Regular.md`
-- `2022-Regular.md`
-
-Only label a document as an actual PU question paper when its authenticity and course code have been verified.
-
-## How to Prepare
-
-1. Study the concepts unit by unit.
-2. Practise numerical problems, diagrams, or circuit designs where applicable.
-3. Make concise revision notes and learn important definitions.
-4. Solve authentic previous-year questions after completing the relevant topics.
-5. Revise difficult topics regularly.
+Visit [Previous-Questions](./Previous-Questions/) for the available question-paper collection and updates.
 
 ---
 
-**Purpose:** To organize reliable BIT152CO study materials and help PU BIT second-semester students prepare for examinations.
+**Course Code:** BIT152CO  
+**Course Name:** Digital Logic
