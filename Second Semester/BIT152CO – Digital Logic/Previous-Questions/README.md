@@ -1,27 +1,21 @@
-# Previous Questions – BIT152CO
+# Previous Questions – BIT152CO Digital Logic
 
-This folder stores Purbanchal University (PU) BIT BIT152CO – Digital Logic question papers, organized by examination type and year.
+This folder contains Purbanchal University BIT second-semester Digital Logic previous-question resources.
 
 ## Folder Structure
 
 ```text
 Previous-Questions/
-└── README.md/
-  ├── 2025-Regular
-  ├── 2024-Regular
-  ├── 2023-Regular
-  └── 2022-Regular
+└── README.md
 ```
 
-## How to Add Question Papers
+## Adding Question Papers
 
-- Add College of Information Technology & Engineering (CITE) internal pre-board papers to `CITE Pre-board/`.
-- Add PU regular final examination papers to the matching year folder.
-- Keep scanned question papers in PDF or image format.
-- Use clear filenames, for example `BIT152CO_2025_Regular.pdf`.
+- Keep each question paper in this folder.
+- Use a clear filename containing the course code, year, and examination type (for example, `BIT152CO_2025_Regular.pdf`).
+- Add a year-wise entry or link in this README when a new paper is uploaded.
+- Keep scanned papers in PDF or image format.
 
-> **Verification:** Only identify a document as an official PU final paper when its university, course code, semester, year, and examination type have been checked. CITE pre-board papers are internal college papers, not PU final examination papers.
+## Verification
 
-## Paper Availability
-
-Question papers will be added as authentic copies become available. The folders below provide the intended organization.
+Before identifying a paper as an official PU examination paper, verify its university, course code, semester, year, and examination type. College pre-board papers must be identified separately as internal examinations.
