@@ -2,8 +2,6 @@
 
 ## 2024
 
-**Worked solutions:** [2024-Solutions.md](./2024-Solutions.md)
-
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
 **BIT151HS: Mathematics-II (New Course)**  
 **Time:** 03:00 hrs. | **Full Marks:** 80 | **Pass Marks:** 32
