@@ -19,20 +19,15 @@
 **10 × 2 = 20**
 
 ### 1.
-Verify Rolle's theorem for $f(x) = x^2$, $x \in [-1, 1]$. **[2]**
+Verify Rolle's theorem for **f(x) = x²**, **x ∈ [−1, 1]**. **[2]**
 
 ### 2.
-Write the power series expansion of $\tan x$. **[2]**
+Write the power series expansion of **tan x**. **[2]**
 
 ### 3.
-If $u = \log(x^3 + y^3 + z^3 - 3xyz)$, show that
+If **u = log(x³ + y³ + z³ − 3xyz)**, show that
 
-$
-x\frac{\partial u}{\partial x}
-+y\frac{\partial u}{\partial y}
-+z\frac{\partial u}{\partial z}
-=\frac{3}{x+y+z}.
-$
+**x(∂u/∂x) + y(∂u/∂y) + z(∂u/∂z) = 3/(x + y + z).**
 
 **[2]**
 
@@ -40,47 +35,38 @@ $
 Define the Hermitian matrix with an example. **[2]**
 
 ### 5.
-Transform the equation $x^2 + y^2 + z^2 = 2z$ by using spherical polar coordinates. **[2]**
+Transform the equation **x² + y² + z² = 2z** by using spherical polar coordinates. **[2]**
 
 ### 6.
-Find the vector perpendicular to
+Find the vector perpendicular to both vectors:
 
-$
-\vec{a}=2\vec{i}-3\vec{j}+4\vec{k}
-\quad\text{and}\quad
-\vec{b}=4\vec{i}-2\vec{j}-5\vec{k}.
-$
+- **a⃗ = 2i⃗ − 3j⃗ + 4k⃗**
+- **b⃗ = 4i⃗ − 2j⃗ − 5k⃗**
 
 **[2]**
 
 ### 7.
-Find the equation of the line passing through $(1,2,3)$ and $(4,0,13)$ by the vector method. **[2]**
+Find the equation of the line passing through **(1, 2, 3)** and **(4, 0, 13)** by the vector method. **[2]**
 
 ### 8.
 Find the adjoint matrix of
 
-$
-\begin{bmatrix}
-3 & 4\\
--7 & 2
-\end{bmatrix}.
-$
+```text
+[  3   4 ]
+[ -7   2 ]
+```
 
 **[2]**
 
 ### 9.
 Show that
 
-$
-\vec{a}\times(\vec{b}\times\vec{c})
-+\vec{b}\times(\vec{c}\times\vec{a})
-+\vec{c}\times(\vec{a}\times\vec{b})=0.
-$
+**a⃗ × (b⃗ × c⃗) + b⃗ × (c⃗ × a⃗) + c⃗ × (a⃗ × b⃗) = 0.**
 
 **[2]**
 
 ### 10.
-Find the equation of the parabola whose vertex is at $(2,3)$ and focus is at $(2,5)$. **[2]**
+Find the equation of the parabola whose vertex is at **(2, 3)** and focus is at **(2, 5)**. **[2]**
 
 ---
 
@@ -92,92 +78,73 @@ Find the equation of the parabola whose vertex is at $(2,3)$ and focus is at $(2
 ### 11.
 Find the inverse of the matrix
 
-$
-A=
-\begin{bmatrix}
-1 & 2 & -1\\
-3 & 8 & 2\\
-4 & 9 & -1
-\end{bmatrix}.
-$
+```text
+A = [ 1   2  -1 ]
+    [ 3   8   2 ]
+    [ 4   9  -1 ]
+```
 
 **[5]**
 
 ### 12.
 Solve the following system of linear equations by using the Gauss elimination method:
 
-$
-\begin{aligned}
-x+2y-z&=-1,\\
-3x+8y+2z&=28,\\
-4x+9y-z&=14.
-\end{aligned}
-$
+```text
+x + 2y - z     = -1
+3x + 8y + 2z   = 28
+4x + 9y - z    = 14
+```
 
 **[5]**
 
 ### 13.
-Find the eccentricity, identify the conic and directrix. Describe and sketch the graph of
+Find the eccentricity, identify the conic and directrix. Describe and sketch the graph of:
 
-$
-r=\frac{6}{2+\sin\theta}.
-$
+**r = 6/(2 + sin θ)**
 
 **[5]**
 
 ### 14.
-Find the latus rectum, eccentricity, foci and directrices of the ellipse
+Find the latus rectum, eccentricity, foci and directrices of the ellipse:
 
-$
-4x^2+y^2-16x+4y+16=0.
-$
+**4x² + y² − 16x + 4y + 16 = 0**
 
 **[5]**
 
 ### 15.
-Find the volume of the parallelepiped whose concurrent edges are
+Find the volume of the parallelepiped whose concurrent edges are:
 
-$
-2\vec{i}-3\vec{j}+4\vec{k},\quad
-\vec{i}+2\vec{j}-\vec{k},\quad
-3\vec{i}-\vec{j}+2\vec{k}.
-$
+- **2i⃗ − 3j⃗ + 4k⃗**
+- **i⃗ + 2j⃗ − k⃗**
+- **3i⃗ − j⃗ + 2k⃗**
 
 **[5]**
 
 ### 16.
-Find the distance of the point $(2,3,4)$ from the plane
+Find the distance of the point **(2, 3, 4)** from the plane:
 
-$
-2x-3y+6z-8=0.
-$
+**2x − 3y + 6z − 8 = 0**
 
 **[5]**
 
 ### 17.
-Evaluate
+Evaluate:
 
-$
-\lim_{x\to 0}\left(\frac{\tan x}{x}\right)^{\frac{1}{x^2}}.
-$
+**lim (x → 0) [tan x / x]^(1/x²)**
 
 **[5]**
 
 ### 18.
-Find the asymptotes of the curve
+Find the asymptotes of the curve:
 
-$
-x^3-2y^3+2x^2y-xy^2+xy-y^2+1=0.
-$
+**x³ − 2y³ + 2x²y − xy² + xy − y² + 1 = 0**
 
 **[5]**
 
 ### 19.
-Find the area of the astroid
+Find the area of the astroid:
 
-$
-x^{\frac{2}{3}}+y^{\frac{2}{3}}=a^{\frac{2}{3}}.
-$
+**x^(2/3) + y^(2/3) = a^(2/3)**
 
 **[5]**
 
@@ -189,68 +156,51 @@ $
 **4 × 5 = 20**
 
 ### 20.
-Find the shortest distance between the skew lines
+Find the shortest distance between the skew lines:
 
-$
-\frac{x-3}{2}=\frac{y-4}{3}=\frac{z-5}{4}
-$
+```text
+(x − 3)/2 = (y − 4)/3 = (z − 5)/4
 
-and
-
-$
-\frac{x-4}{3}=\frac{y-5}{4}=\frac{z-7}{5}.
-$
+(x − 4)/3 = (y − 5)/4 = (z − 7)/5
+```
 
 **[5]**
 
 ### 21.
 State Euler's theorem. If
 
-$
-u=\sin^{-1}\left(\frac{x^2+y^2}{x+y}\right),
-$
+**u = sin⁻¹[(x² + y²)/(x + y)]**,
 
 prove that
 
-$
-x\frac{\partial u}{\partial x}
-+y\frac{\partial u}{\partial y}
-=\tan u.
-$
+**x(∂u/∂x) + y(∂u/∂y) = tan u.**
 
 **[5]**
 
 ### 22.
 Prove that
 
-$
-\begin{vmatrix}
-a+b & a & b\\
-a & a+c & c\\
-b & c & b+c
-\end{vmatrix}
-=4abc.
-$
+```text
+| a+b    a    b   |
+|  a    a+c   c   | = 4abc
+|  b     c   b+c  |
+```
 
 **[5]**
 
 ### 23.
-If the axes are turned through an angle $\tan^{-1}2$, what does the equation
+If the axes are turned through an angle **tan⁻¹ 2**, what does the equation
 
-$
-4xy-3x^2=a^2
-$
+**4xy − 3x² = a²**
 
 become? **[5]**
 
 ### 24.
 Find the volume of the solid generated by the revolution of the catenary
 
-$
-Y=c\cosh\left(\frac{x}{c}\right)
-$
+**Y = c cosh(x/c)**
 
-about the x-axis between $x=0$ and $x=a$. **[5]**
+about the x-axis between **x = 0** and **x = a**. **[5]**
 
 ---
 
