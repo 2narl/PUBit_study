@@ -467,7 +467,7 @@ Each subject folder contains a `Previous-Questions` directory.
 
 ## Final Advice
 
-Your first semester builds the foundation for the rest of the BIT program. Give special attention to **C Programming, Mathematics-I and Fundamentals of Information Technology**, while regularly practising communication skills, understanding society and ethics, and completing Project-I step by step.
+Your first semester builds the foundation for the rest of the BIT program. Give special attention to **C Programming, Mathematics-I and Fundamentals of Information Technology**, while regularly practising communication skills and understanding society and ethics.
 
 Study consistently rather than cramming. Read concepts, solve problems, write programs, practise communication and revise every week. This will prepare you for your first-semester examinations and make the later BIT subjects easier to understand.
 
@@ -500,10 +500,6 @@ First semester/
 │   ├── README.md
 │   └── Previous-Questions/
 │       └── README.md
-└── BIT106CO-Project-I/
-    ├── README.md
-    └── Previous-Questions/
-        └── README.md
 ```
 
 ## Subject-wise Detailed Syllabus
@@ -513,4 +509,3 @@ First semester/
 - [BIT103HS — Technical Communication](BIT103HS-Technical-Communication/README.md)
 - [BIT104HS — Society and Ethics in IT](BIT104HS-Society-and-Ethics-in-IT/README.md)
 - [BIT105CO — Computer Programming in C](BIT105CO-Computer-Programming-in-C/README.md)
-- [BIT106CO — Project-I](BIT106CO-Project-I/README.md)
