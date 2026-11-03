@@ -205,3 +205,594 @@ about the x-axis between **x = 0** and **x = a**. **[5]**
 ---
 
 **End of 2026 Question Paper**
+
+
+---
+
+# Complete Solutions – 2026 Mathematics-I
+
+*The following section contains worked solutions to all 24 questions. These are study solutions, not an official university answer key.*
+
+## Group A – Solutions
+
+### Q1. Verify Rolle's theorem for f(x) = x² on [−1, 1].
+
+Rolle's theorem states that if a function is continuous on [a,b], differentiable on (a,b), and f(a) = f(b), then at least one c in (a,b) exists such that f'(c) = 0.
+
+Given f(x) = x² and [a,b] = [−1,1].
+
+- f(x) is a polynomial, so it is continuous on [−1,1].
+- f'(x) = 2x, so it is differentiable on (−1,1).
+- f(−1) = 1 and f(1) = 1.
+
+Thus, f(−1) = f(1). Now,
+
+2c = 0  ⇒  **c = 0**.
+
+Since 0 belongs to (−1,1), Rolle's theorem is verified.
+
+### Q2. Write the power series expansion of tan x.
+
+Using the Maclaurin series,
+
+**tan x = x + x³/3 + 2x⁵/15 + 17x⁷/315 + 62x⁹/2835 + ...**
+
+This expansion is valid for |x| < π/2.
+
+### Q3. Verify the partial derivative identity.
+
+Given u = log F, where
+
+F = x³ + y³ + z³ − 3xyz.
+
+By the chain rule,
+
+∂u/∂x = (3x² − 3yz)/F,
+
+∂u/∂y = (3y² − 3xz)/F,
+
+∂u/∂z = (3z² − 3xy)/F.
+
+Multiplying by x, y and z respectively and adding,
+
+x(∂u/∂x) + y(∂u/∂y) + z(∂u/∂z)
+
+= [3x³ − 3xyz + 3y³ − 3xyz + 3z³ − 3xyz]/F
+
+= 3(x³ + y³ + z³ − 3xyz)/F
+
+= **3**.
+
+**Important correction:** The printed question gives 3/(x+y+z), but for the function as printed the correct result is 3. Since F is homogeneous of degree 3, Euler's theorem also confirms this result. The question likely contains a printing error.
+
+### Q4. Define a Hermitian matrix with an example.
+
+A square complex matrix A is called Hermitian if it is equal to its conjugate transpose:
+
+**A = Aᴴ = conjugate(A)ᵀ.**
+
+Example:
+
+A = [[2, i], [−i, 3]].
+
+Its conjugate transpose is also [[2, i], [−i, 3]]. Hence, A is Hermitian.
+
+### Q5. Transform x² + y² + z² = 2z into spherical polar coordinates.
+
+The spherical polar transformations are:
+
+x = r sin θ cos φ,  
+y = r sin θ sin φ,  
+z = r cos θ,
+
+and x² + y² + z² = r².
+
+Substituting into the given equation,
+
+r² = 2r cos θ.
+
+For r ≠ 0, divide by r:
+
+**r = 2 cos θ.**
+
+(The origin r = 0 is also included in the original surface.)
+
+### Q6. Find a vector perpendicular to both given vectors.
+
+Given a = 2i − 3j + 4k and b = 4i − 2j − 5k.
+
+A vector perpendicular to both is their cross product:
+
+a × b = | i  j  k ; 2  −3  4 ; 4  −2  −5 |
+
+= i[15 + 8] − j[−10 − 16] + k[−4 + 12]
+
+= **23i + 26j + 8k**.
+
+### Q7. Find the line through (1,2,3) and (4,0,13) by vector method.
+
+Let A = (1,2,3) and B = (4,0,13).
+
+The direction vector is
+
+AB = B − A = (4−1, 0−2, 13−3) = (3,−2,10).
+
+The vector equation of a line through A is r = a + λd.
+
+Therefore,
+
+**r = (i + 2j + 3k) + λ(3i − 2j + 10k).**
+
+Its symmetric form is
+
+**(x−1)/3 = (y−2)/(−2) = (z−3)/10.**
+
+### Q8. Find the adjoint of the matrix.
+
+Given A = [[3,4], [−7,2]].
+
+For a 2 × 2 matrix [[a,b],[c,d]],
+
+adj(A) = [[d,−b],[−c,a]].
+
+Therefore,
+
+**adj(A) = [[2,−4],[7,3]].**
+
+### Q9. Prove the vector triple-product identity.
+
+Using the vector triple-product formula,
+
+a × (b × c) = b(a·c) − c(a·b),
+
+b × (c × a) = c(b·a) − a(b·c),
+
+c × (a × b) = a(c·b) − b(c·a).
+
+Adding these three expressions, every term cancels because the scalar product is commutative (a·b = b·a).
+
+Hence,
+
+**a × (b × c) + b × (c × a) + c × (a × b) = 0.**
+
+Proved.
+
+### Q10. Find the parabola with vertex (2,3) and focus (2,5).
+
+The vertex is (h,k) = (2,3). Since the focus is directly above the vertex, the parabola opens upward.
+
+For an upward-opening parabola,
+
+(x−h)² = 4p(y−k),
+
+where p is the distance from vertex to focus.
+
+p = 5−3 = 2.
+
+Thus,
+
+**(x−2)² = 8(y−3).**
+
+## Group B – Solutions
+
+### Q11. Find the inverse of the matrix.
+
+Given
+
+A = [[1,2,−1], [3,8,2], [4,9,−1]].
+
+Use A⁻¹ = adj(A)/|A|.
+
+First, expand the determinant:
+
+|A| = 1(−8−18) − 2(−3−8) + (−1)(27−32)
+
+= −26 + 22 + 5 = **1**.
+
+The cofactor matrix is
+
+C = [[−26,11,−5], [−7,3,−1], [12,−5,2]].
+
+Therefore,
+
+adj(A) = Cᵀ = [[−26,−7,12], [11,3,−5], [−5,−1,2]].
+
+Since |A| = 1,
+
+**A⁻¹ = [[−26,−7,12], [11,3,−5], [−5,−1,2]].**
+
+### Q12. Solve by Gauss elimination.
+
+Given:
+
+x + 2y − z = −1  
+3x + 8y + 2z = 28  
+4x + 9y − z = 14.
+
+The augmented matrix is
+
+[1  2  −1 | −1]  
+[3  8   2 | 28]  
+[4  9  −1 | 14].
+
+Apply R₂ → R₂ − 3R₁ and R₃ → R₃ − 4R₁:
+
+[1  2  −1 | −1]  
+[0  2   5 | 31]  
+[0  1   3 | 18].
+
+Now apply R₃ → 2R₃ − R₂:
+
+[1  2  −1 | −1]  
+[0  2   5 | 31]  
+[0  0   1 |  5].
+
+Back substitution gives:
+
+z = 5,
+
+2y + 5(5) = 31  ⇒  y = 3,
+
+x + 2(3) − 5 = −1  ⇒  x = −2.
+
+**Answer: x = −2, y = 3, z = 5.**
+
+### Q13. Find the eccentricity, conic and directrix.
+
+Given r = 6/(2 + sin θ).
+
+Rewrite:
+
+r = 3/[1 + (1/2)sin θ].
+
+Compare with the standard polar conic equation
+
+r = ed/(1 + e sin θ).
+
+Thus e = 1/2 and ed = 3, giving d = 6.
+
+Since e < 1, the conic is an ellipse. With this sign convention, its directrix is y = 6 and its focus is at the pole (origin).
+
+**Answer: eccentricity e = 1/2; conic = ellipse; directrix y = 6.**
+
+### Q14. Find the latus rectum, eccentricity, foci and directrices.
+
+Given:
+
+4x² + y² − 16x + 4y + 16 = 0.
+
+Group and complete squares:
+
+4(x²−4x) + (y²+4y) + 16 = 0
+
+4[(x−2)²−4] + [(y+2)²−4] + 16 = 0
+
+Therefore,
+
+4(x−2)² + (y+2)² = 4,
+
+or
+
+(x−2)²/1 + (y+2)²/4 = 1.
+
+The centre is (2,−2), with a² = 4 and b² = 1. The major axis is vertical.
+
+c² = a²−b² = 4−1 = 3, so c = √3.
+
+Eccentricity:
+
+**e = c/a = √3/2.**
+
+Foci:
+
+**(2, −2 ± √3).**
+
+Directrices for a vertical ellipse:
+
+y = k ± a/e
+
+= −2 ± 4/√3.
+
+Length of latus rectum:
+
+L = 2b²/a = 2(1)/2 = **1**.
+
+### Q15. Find the volume of the parallelepiped.
+
+Given vectors:
+
+a = (2,−3,4), b = (1,2,−1), c = (3,−1,2).
+
+Volume = |a·(b×c)|
+
+= |det [[2,−3,4],[1,2,−1],[3,−1,2]]|.
+
+Expanding:
+
+= |2(4−1) + 3(2+3) + 4(−1−6)|
+
+= |6 + 15 − 28| = **7 cubic units**.
+
+### Q16. Find the distance from the point to the plane.
+
+Point P = (2,3,4), plane 2x−3y+6z−8 = 0.
+
+Distance formula:
+
+D = |Ax₁+By₁+Cz₁+D₀|/√(A²+B²+C²).
+
+Substitute:
+
+D = |2(2)−3(3)+6(4)−8|/√(2²+(−3)²+6²)
+
+= |4−9+24−8|/√49
+
+= **11/7 units**.
+
+### Q17. Evaluate the limit.
+
+L = lim(x→0) (tan x/x)^(1/x²).
+
+Take logarithms:
+
+ln L = lim(x→0) [ln(tan x/x)]/x².
+
+Using tan x = x + x³/3 + O(x⁵),
+
+tan x/x = 1 + x²/3 + O(x⁴).
+
+Using ln(1+t) = t + O(t²),
+
+ln(tan x/x) = x²/3 + O(x⁴).
+
+Therefore ln L = 1/3, and
+
+**L = e^(1/3).**
+
+### Q18. Find the asymptotes.
+
+Given:
+
+F(x,y) = x³ − 2y³ + 2x²y − xy² + xy − y² + 1 = 0.
+
+Assume an asymptote y = mx + c.
+
+The coefficient of x³ gives:
+
+1 − 2m³ + 2m − m² = 0,
+
+or
+
+2m³ + m² − 2m − 1 = 0
+
+= (m−1)(m+1)(2m+1) = 0.
+
+Thus m = 1, −1, −1/2.
+
+On substituting y = mx+c into F and setting the coefficient of x² to zero:
+
+c(−6m²−2m+2) + m−m² = 0.
+
+For m = 1, c = 0.
+
+For m = −1, c = −1.
+
+For m = −1/2, c = 1/2.
+
+Therefore, the three asymptotes are:
+
+**y = x,  y = −x−1,  y = −x/2 + 1/2.**
+
+### Q19. Find the area of the astroid.
+
+Given:
+
+x^(2/3) + y^(2/3) = a^(2/3).
+
+Use the parametric equations:
+
+x = a cos³θ,  y = a sin³θ.
+
+By symmetry, total area is four times the first-quadrant area:
+
+A = 4∫ y(−dx).
+
+Since dx/dθ = −3a cos²θ sin θ,
+
+A = 12a² ∫₀^(π/2) cos²θ sin⁴θ dθ.
+
+Using the standard integral,
+
+∫₀^(π/2) cos²θ sin⁴θ dθ = π/32.
+
+Therefore,
+
+A = 12a² × π/32.
+
+**Area = 3πa²/8 square units.**
+
+## Group C – Solutions
+
+### Q20. Find the shortest distance between the skew lines.
+
+The lines are
+
+(x−3)/2 = (y−4)/3 = (z−5)/4
+
+and
+
+(x−4)/3 = (y−5)/4 = (z−7)/5.
+
+Take points A = (3,4,5), B = (4,5,7), and direction vectors
+
+d₁ = (2,3,4), d₂ = (3,4,5).
+
+The shortest distance is
+
+D = |(B−A)·(d₁×d₂)|/|d₁×d₂|.
+
+Now,
+
+B−A = (1,1,2),
+
+d₁×d₂ = (−1,2,−1).
+
+Thus,
+
+(B−A)·(d₁×d₂) = −1 + 2 − 2 = −1,
+
+and
+
+|d₁×d₂| = √(1+4+1) = √6.
+
+Therefore,
+
+**D = 1/√6 = √6/6 units.**
+
+### Q21. State Euler's theorem and prove the identity.
+
+Euler's theorem: If v = f(x,y) is homogeneous of degree n, then
+
+x(∂v/∂x) + y(∂v/∂y) = nv.
+
+Given u = sin⁻¹[(x²+y²)/(x+y)]. Put
+
+v = (x²+y²)/(x+y).
+
+The numerator has degree 2 and denominator degree 1, so v is homogeneous of degree 1.
+
+By Euler's theorem:
+
+xvₓ + yvᵧ = v.
+
+Since u = sin⁻¹v,
+
+uₓ = vₓ/√(1−v²),  uᵧ = vᵧ/√(1−v²).
+
+Therefore,
+
+xuₓ + yuᵧ = (xvₓ+yvᵧ)/√(1−v²)
+
+= v/√(1−v²).
+
+As v = sin u, this becomes
+
+sin u/√(1−sin²u) = tan u
+
+(on the usual principal range where cos u is non-negative).
+
+Hence,
+
+**x(∂u/∂x) + y(∂u/∂y) = tan u.**
+
+### Q22. Prove the determinant identity.
+
+Let
+
+D = | a+b  a    b ; a  a+c  c ; b  c  b+c |.
+
+Expanding along the first row:
+
+D = (a+b)[(a+c)(b+c)−c²]
+    − a[a(b+c)−bc]
+    + b[ac−b(a+c)].
+
+Simplify each bracket:
+
+D = (a+b)(ab+ac+bc) − a(ab+ac−bc) + b(ac−ab−bc).
+
+Expanding and collecting terms:
+
+D = a²b + ab² + a²c + 2abc + b²c
+    − a²b − a²c + abc
+    + abc − ab² − b²c
+
+= **4abc**.
+
+Hence proved.
+
+### Q23. Transform the equation after rotation of axes.
+
+Given 4xy − 3x² = a² and θ = tan⁻¹2.
+
+Thus,
+
+cos θ = 1/√5,  sin θ = 2/√5.
+
+For axes rotated through θ, use
+
+x = X cos θ − Y sin θ = (X−2Y)/√5,
+
+y = X sin θ + Y cos θ = (2X+Y)/√5.
+
+Substitute:
+
+4[(X−2Y)/√5][(2X+Y)/√5]
+− 3[(X−2Y)/√5]² = a².
+
+Multiplying by 5:
+
+4(X−2Y)(2X+Y) − 3(X−2Y)² = 5a².
+
+Expanding and simplifying:
+
+5X² − 20Y² = 5a².
+
+Divide by 5:
+
+**X² − 4Y² = a².**
+
+### Q24. Find the volume generated by revolving the catenary.
+
+Given y = c cosh(x/c), for 0 ≤ x ≤ a.
+
+The volume of revolution about the x-axis is
+
+V = π∫₀ᵃ y² dx.
+
+Substitute:
+
+V = πc²∫₀ᵃ cosh²(x/c) dx.
+
+Use cosh²t = [1 + cosh(2t)]/2:
+
+V = (πc²/2)∫₀ᵃ [1 + cosh(2x/c)] dx.
+
+Integrating:
+
+V = (πc²/2)[x + (c/2)sinh(2x/c)]₀ᵃ.
+
+Applying the limits:
+
+**V = (πc²a/2) + (πc³/4)sinh(2a/c).**
+
+---
+
+## Quick Revision – Final Answers
+
+| Question | Final answer |
+|---|---|
+| 1 | c = 0 |
+| 2 | tan x = x + x³/3 + 2x⁵/15 + ... |
+| 3 | 3 (printed RHS appears incorrect) |
+| 4 | A = conjugate(A)ᵀ |
+| 5 | r = 2 cos θ |
+| 6 | 23i + 26j + 8k |
+| 7 | r = a + λ(3i − 2j + 10k) |
+| 8 | [[2,−4],[7,3]] |
+| 9 | 0 |
+| 10 | (x−2)² = 8(y−3) |
+| 11 | Inverse matrix given in Q11 solution |
+| 12 | x = −2, y = 3, z = 5 |
+| 13 | e = 1/2; ellipse; y = 6 |
+| 14 | e = √3/2; foci (2,−2±√3); LR = 1 |
+| 15 | 7 cubic units |
+| 16 | 11/7 units |
+| 17 | e^(1/3) |
+| 18 | y = x; y = −x−1; y = −x/2+1/2 |
+| 19 | 3πa²/8 |
+| 20 | 1/√6 units |
+| 21 | xuₓ + yuᵧ = tan u |
+| 22 | 4abc |
+| 23 | X² − 4Y² = a² |
+| 24 | (πc²a/2) + (πc³/4)sinh(2a/c) |
