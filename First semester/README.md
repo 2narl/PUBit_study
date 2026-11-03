@@ -473,6 +473,39 @@ Study consistently rather than cramming. Read concepts, solve problems, write pr
 
 ---
 
+## Folder Structure
+
+Each first-semester subject has its own folder, following the organization used in the Second Semester directory. Subject-specific syllabi, notes, practical materials and previous questions are kept separately.
+
+```text
+First semester/
+├── README.md
+├── BIT101CO-Fundamentals-of-Information-Technology/
+│   ├── README.md
+│   └── Previous-Questions/
+│       └── README.md
+├── BIT102HS-Mathematics-I/
+│   ├── README.md
+│   └── Previous-Questions/
+│       └── README.md
+├── BIT103HS-Technical-Communication/
+│   ├── README.md
+│   └── Previous-Questions/
+│       └── README.md
+├── BIT104HS-Society-and-Ethics-in-IT/
+│   ├── README.md
+│   └── Previous-Questions/
+│       └── README.md
+├── BIT105CO-Computer-Programming-in-C/
+│   ├── README.md
+│   └── Previous-Questions/
+│       └── README.md
+└── BIT106CO-Project-I/
+    ├── README.md
+    └── Previous-Questions/
+        └── README.md
+```
+
 ## Subject-wise Detailed Syllabus
 
 - [BIT101CO — Fundamentals of Information Technology](BIT101CO-Fundamentals-of-Information-Technology/README.md)
