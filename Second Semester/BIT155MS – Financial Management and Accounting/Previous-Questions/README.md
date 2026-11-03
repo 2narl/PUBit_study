@@ -6,7 +6,7 @@
 
 | Year | Examination | Question Paper |
 | :---: | :--- | :--- |
-| 2026 | Regular Final | [View 2026 Question Paper](./2026-Regular.md) |
+| 2026 | Regular Final | [View 2026 Question Paper](./PURBANCHAL UNIVERSITY) |
 | 2022 | Regular Final | Included below in this README |
 
 ---
