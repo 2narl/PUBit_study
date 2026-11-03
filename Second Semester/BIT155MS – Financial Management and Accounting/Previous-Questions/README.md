@@ -6,7 +6,7 @@
 
 | Year | Examination | Question Paper |
 | :---: | :--- | :--- |
-| 2026 | Regular Final | [View 2026 Question Paper](https://github.com/2narl/PUBit_study/edit/main/Second%20Semester/BIT155MS%20%E2%80%93%20Financial%20Management%20and%20Accounting/Previous-Questions/README.md#2026) |
+| 2026 | Regular Final | [View 2026 Question Paper](https://github.com/2narl/PUBit_study/blob/main/Second%20Semester/BIT155MS%20%E2%80%93%20Financial%20Management%20and%20Accounting/Previous-Questions/README.md#2026) |
 | 2022 | Regular Final | [View 2026 Question Paper](https://github.com/2narl/PUBit_study/blob/main/Second%20Semester/BIT155MS%20%E2%80%93%20Financial%20Management%20and%20Accounting/Previous-Questions/README.md#2022) |
 
 ---
