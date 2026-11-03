@@ -36,7 +36,8 @@ BIT155MS – Financial Management and Accounting/
 
 ## Previous-Year Question Papers
 
-- [2022 Regular Final Examination](./2022-Regular.md)
+- [2026 Regular Final Examination](./Previous-Questions/2026-Regular.md)
+- [Previous-Questions Archive](./Previous-Questions/README.md)
 
 Only label a document as an actual PU question paper when its authenticity and course code have been verified. The year above follows the year printed in the supplied paper; check the original scan if a different year is intended.
 
