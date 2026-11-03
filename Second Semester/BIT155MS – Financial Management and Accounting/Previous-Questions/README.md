@@ -1,3 +1,16 @@
+# BIT155MS – Previous Question Papers
+
+**Financial Management and Accounting | PU BIT Second Semester**
+
+## Question Paper Index
+
+| Year | Examination | Question Paper |
+| :---: | :--- | :--- |
+| 2026 | Regular Final | [View 2026 Question Paper](./2026-Regular.md) |
+| 2022 | Regular Final | Included below in this README |
+
+---
+
 # PURBANCHAL UNIVERSITY
 ### 2022
 **Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
