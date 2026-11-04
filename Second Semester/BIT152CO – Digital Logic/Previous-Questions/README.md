@@ -135,6 +135,84 @@ f(A, B, C, D) = \sum(0, 1, 4, 5, 7, 10)
 - **(b)** K-map
 - **(c)** Laws in Boolean algebra
 
+
+---
+
+# PURBANCHAL UNIVERSITY
+
+### 2023
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**BIT152CO/BIT173CO: Digital Logic** *(New / Old Course)*
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+
+---
+
+## Group A
+
+### Answer TWO questions. [2 × 12 = 24]
+
+**1.**
+
+- **(a)** Define a combinational circuit. Explain a full-subtractor circuit in detail. **[2 + 6]**
+- **(b)** What is ROM? Explain. **[4]**
+
+**2.**
+
+- **(a)** What is a counter? List the different types of counters and design a synchronous 3-bit counter. **[2 + 6]**
+- **(b)** Subtract \((532)_{10}\) from \((878)_{10}\) using the 9's and 10's complement methods. **[4]**
+
+**3.**
+
+- **(a)** Perform the following conversions. **[2 + 2 + 2]**
+  - **(i)** \((43021)_{10} = (?)_2\)
+  - **(ii)** \((B03.83)_{16} = (?)_{10}\)
+  - **(iii)** \((3567)_8 = (?)_{16}\)
+- **(b)** What is a decoder? Discuss a 3 × 8 line decoder in detail. **[6]**
+
+---
+
+## Group B
+
+### Answer SEVEN questions. [7 × 8 = 56]
+
+**4.** Define a register. Explain a PIPO register with a timing diagram. **[2 + 8]**
+
+**5.** What is a logic gate? List the different types of logic gates and explain them. **[2 + 6]**
+
+**6.** What is a flip-flop? Explain JK flip-flop in detail. **[2 + 6]**
+
+**7.** State and prove De Morgan's theorems.
+
+**8.** Simplify the following Boolean expression using a K-map:
+
+\[
+F(A, B, C, D) = \sum(1, 2, 4, 6, 8, 10, 12)
+\]
+
+with don't-care conditions:
+
+\[
+d(A, B, C, D) = \sum(3, 5, 7, 9)
+\]
+
+**9.** What is a clock pulse? Explain in detail. How is it important in circuit design? **[4 + 4]**
+
+**10.** Design a 4 × 1 MUX with a logic diagram and truth table.
+
+**11.** Differentiate between sequential and combinational circuits with examples.
+
+**12.** Write short notes on any TWO: **[4 + 4]**
+
+- **(a)** Gray code
+- **(b)** Universal logic gates
+- **(c)** Master-slave flip-flop
+
 ---
 
 # PURBANCHAL UNIVERSITY
@@ -259,5 +337,6 @@ d(A, B, C, D) = \sum(0, 3, 5, 8)
 **10.** Differentiate between a MUX and a DEMUX using suitable diagrams.
 
 **11.** Design a sequential circuit for the given state diagram.
+
 
 
