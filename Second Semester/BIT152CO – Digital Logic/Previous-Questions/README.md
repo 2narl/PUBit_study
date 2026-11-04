@@ -145,3 +145,52 @@ d(A, B, C, D) = \sum(0, 3, 5, 8)
 - **(b)** Integrated circuits
 - **(c)** Triggering of flip-flop
 
+---
+
+# PURBANCHAL UNIVERSITY
+
+### 2021
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**BIT173CO: Digital Logic** *(New Course)*
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+
+---
+
+## Group A
+
+### Answer TWO questions. [2 × 12 = 24]
+
+**1.** Design the 4-bit synchronous up-down counter with timing diagram, logic diagram and truth table.
+
+**2.** What is a master-slave flip-flop? Design its logic circuit and truth table, and explain its working principle.
+
+**3.** Design a 4-bit magnitude comparator.
+
+---
+
+## Group B
+
+### Answer SEVEN questions. [7 × 8 = 56]
+
+**4.** Design a full-subtractor circuit.
+
+**5.** Describe the three-variable K-map with an example.
+
+**6.** Design a 3-to-8 line decoder.
+
+**7.** State and prove De Morgan's theorems.
+
+**8.** What do you mean by a register? What are the various types of registers?
+
+**9.** Explain the 4-bit ripple counter and draw a timing diagram.
+
+**10.** Differentiate between a MUX and a DEMUX using suitable diagrams.
+
+**11.** Design a sequential circuit for the given state diagram.
+
