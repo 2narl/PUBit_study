@@ -144,3 +144,80 @@ Write short notes on **ANY TWO**. **[2 × 4 = 8]**
 ---
 
 **End of 2023 Question Paper**
+
+---
+
+# PURBANCHAL UNIVERSITY
+
+## 2021
+
+### Bachelor in Information Technology (B.I.T.) / Second Semester / Final
+
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**Course Code:** BIT176CO  
+**Subject:** Object Oriented Programming in C++ (New course)
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable.*  
+*Figures in the margin indicate full marks.*
+
+## Group A
+
+**Answer TWO questions.**  
+**2 × 12 = 24**
+
+### 1.
+**(a)** Write a program to create a class named `Employee_Info` with data members `Emp_Id` and `Emp_Name`. Create another class named `Finance_Info` derived from `Employee_Info` with data members `Bas_sal` and `Ot_sal`. Create an independent class `Extra_allowances` with data members `Tray_All`, `House_All` and `Dail_All`. Now, derive another class named `Total_Info` from `Finance_Info` and `Extra_allowances` with data member `Tot_Sal`. Make necessary functions for the above and show the gross salary. **[8]**
+
+**(b)** Discuss function overloading with an example. **[4]**
+
+### 2.
+**(a)** What is a constructor and what are the properties of a constructor? Write a program showing an example of a parameterized constructor. **[4 + 4]**
+
+**(b)** In what circumstances do we need to use the exception handling mechanism? Discuss with an example. **[4]**
+
+### 3.
+**(a)** List different types of operators which cannot be overloaded. Write a program to read two strings and concatenate them, showing an example of operator overloading. **[1 + 5]**
+
+**(b)** What are the different types of visibility modes used in inheritance? Discuss. **[6]**
+
+---
+
+## Group B
+
+**Answer SEVEN questions.**  
+**7 × 8 = 56**
+
+### 4.
+What is a template and why do we use templates in OOP? Write a program to swap two variables using a function template. **[3 + 5]**
+
+### 5.
+What is inheritance? List different types of inheritance supported in C++. Write an OOP program showing multiple inheritance. **[3 + 5]**
+
+### 6.
+Write a program to create a file named `cdplayer.dat` and store `cd_id`, `NameofCd` and price of N CD players in the file. Read the information from the file and display it. **[8]**
+
+### 7.
+What are the different types of type conversion possible in operator overloading? Write a program showing an example of basic-to-class type conversion. **[2 + 6]**
+
+### 8.
+What is DMA in C++? Write a program showing an example of the `new` and `delete` operators. **[2 + 6]**
+
+### 9.
+What is a virtual function? Write a program showing an example of a virtual function. **[2 + 6]**
+
+### 10.
+What are the different ways of defining members of a class? Discuss with examples. How is encapsulation achieved in C++? **[4 + 4]**
+
+### 11.
+Write short notes on **ANY TWO**. **[2 × 4 = 8]**
+
+- **(a)** Early vs. late binding
+- **(b)** POP vs. OOP
+- **(c)** Namespaces
+
+---
+
+**End of 2021 Question Paper**
