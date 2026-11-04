@@ -69,6 +69,72 @@ using a K-map. Also implement the simplified expression using:
 - **(b)** Master-slave flip-flop
 - **(c)** Programmable logic devices
 
+
+---
+
+# PURBANCHAL UNIVERSITY
+
+### 2024
+
+**Bachelor in Information Technology (B.I.T.) / Second Semester / Final**  
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**BIT152CO/BIT173CO: Digital Logic** *(New / Back)*
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
+
+---
+
+## Group A
+
+### Answer TWO questions. [2 × 12 = 24]
+
+**1.** What are logic gates? Explain various logic gates with their logic symbols and truth tables.
+
+**2.** What do you mean by combinational logic? Describe a full-subtractor circuit with truth table, logic circuit and block diagram.
+
+**3.** Define a flip-flop. What are its types? Describe JK flip-flop in detail.
+
+---
+
+## Group B
+
+### Answer SEVEN questions. [7 × 8 = 56]
+
+**4.** Why are NAND and NOR gates called universal gates? Explain with a logic diagram.
+
+**5.** Define an adder. Design an adder circuit that adds three binary bits.
+
+**6.** Perform the following operations: **[2 + 3 + 3]**
+
+- **(a)** \((A2B0)_{16} = (?)_8\)
+- **(b)** \((2341)_5 = (?)_4\)
+- **(c)** Subtract \((101101)_2\) from \((110011)_2\) using the 2's complement method.
+
+**7.** Describe a 4-bit SISO shift register with an example.
+
+**8.** Define a counter. Explain a 3-bit (MOD-8) asynchronous counter with appropriate logic and timing diagrams.
+
+**9.** Describe the design of PLA.
+
+**10.** What is a sequential circuit? Explain master-slave flip-flop in detail. **[2 + 6]**
+
+**11.** Considering the following Boolean function, simplify the equation using a K-map:
+
+\[
+f(A, B, C, D) = \sum(0, 1, 4, 5, 7, 10)
+\]
+
+**Transcription note:** Additional minterms visible at the bottom of the supplied paper: \(\sum(2, 3, 6, 11)\). Verify the complete expression against the original question-paper image before solving.
+
+**12.** Write short notes on any TWO: **[4 + 4]**
+
+- **(a)** Seven-segment decoder
+- **(b)** K-map
+- **(c)** Laws in Boolean algebra
+
 ---
 
 # PURBANCHAL UNIVERSITY
@@ -193,4 +259,5 @@ d(A, B, C, D) = \sum(0, 3, 5, 8)
 **10.** Differentiate between a MUX and a DEMUX using suitable diagrams.
 
 **11.** Design a sequential circuit for the given state diagram.
+
 
