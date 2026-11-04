@@ -44,29 +44,28 @@ The following is a brief unit-wise overview. Refer to the official PU syllabus f
 ```text
 BIT154CO – Object-Oriented Programming in C++/
 ├── README.md
-├── Syllabus/
-├── Notes/
-├── Programs/
-├── Practical/
 └── Previous-Questions/
     └── README.md
 ```
 
-Folders will be populated as study materials are prepared and verified.
+The `Previous-Questions/README.md` file currently contains the collected question papers in chronological order. Additional folders and files can be added as more verified study materials become available.
 
 ## Previous-Year Question Papers
 
-Visit **[Previous-Questions](./Previous-Questions/)** for final examination question papers and year-wise collections.
+Open **[Previous-Questions](./Previous-Questions/README.md)** to read the collected PU final examination question papers.
 
-When adding a paper, use a clear filename such as:
+The current collection includes:
 
-- `2026-Regular.md`
-- `2025-Regular.md`
-- `2024-Regular.md`
-- `2023-Regular.md`
-- `2022-Regular.md`
+| Year | Paper / Course Code | Full Marks |
+|---|---|---:|
+| 2025 | BIT154CO – New | 60 |
+| 2024 | BIT154CO – New | 60 |
+| 2023 | BIT154CO – New | 60 |
+| 2023 | BIT154CO/BIT176CO – New / Back | 80 |
+| 2022 | BIT154CO/BIT176CO/BIT124CS – New / Old | 60 |
+| 2021 | BIT176CO – New Course | 80 |
 
-Only label a document as an actual PU question paper when its authenticity and course code have been checked.
+**Important:** The 2023 New/Back paper is listed separately from the 2023 regular paper because it has a different course-code combination and full marks. Older papers may follow a different course code or examination format. Check the details printed on each paper when preparing for the current examination.
 
 ## Study Resources
 
