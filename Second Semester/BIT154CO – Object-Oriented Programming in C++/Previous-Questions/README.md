@@ -143,7 +143,87 @@ Write short notes on **ANY TWO**. **[2 × 4 = 8]**
 
 ---
 
-**End of 2023 Question Paper**
+**End of 2023 Question Paper (BIT154CO)**
+
+---
+
+# PURBANCHAL UNIVERSITY
+
+## 2023 — New / Back
+
+### Bachelor in Information Technology (B.I.T.) / Second Semester / Final
+
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**Course Code:** BIT154CO/BIT176CO  
+**Subject:** Object Oriented Programming in C++ (New / Back)
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable.*  
+*Figures in the margin indicate full marks.*
+
+## Group A
+
+**Answer TWO questions.**  
+**2 × 12 = 24**
+
+### 1.
+**(a)** What do you mean by function overloading? Explain with an example. **[6]**
+
+**(b)** What are the types of constructor in OOP? Write an OOP program to demonstrate a parameterized constructor. **[6]**
+
+### 2.
+**(a)** Explain characteristics of OOP. **[6]**
+
+**(b)** Write a program to add two complex numbers using binary operator overloading. **[6]**
+
+### 3.
+**(a)** Explain friend function with a proper example. **[6]**
+
+**(b)** What are different visibility modes in inheritance? Explain in detail. **[6]**
+
+---
+
+## Group B
+
+**Answer SEVEN questions.**  
+**7 × 8 = 56**
+
+### 4.
+What is type conversion? How would you convert basic type to class type? Explain with an example. **[2 + 6]**
+
+### 5.
+Explain ambiguity in multipath inheritance. How do we solve the ambiguity case? Write a program to demonstrate it. **[2 + 3 + 3]**
+
+### 6.
+How can you open and close a file? Write a program to read the contents of one file and write them into another. **[4 + 4]**
+
+### 7.
+What is dynamic memory allocation? Write a program to demonstrate the use of `new` and `delete` operators. **[2 + 6]**
+
+### 8.
+Explain private and public access specifiers used in a class. Write a program to find simple interest by passing an object to a function and returning an object as well.
+
+### 9.
+Discuss default arguments with an example. Write a program to calculate the area of a rectangle and a circle using function overloading.
+
+### 10.
+Explain the hierarchy of stream classes. Write the syntax for functions that are used to open and close a file.
+
+### 11.
+Explain various characteristics of Object-Oriented Programming.
+
+### 12.
+Write short notes on **ANY TWO**. **[3 + 3]**
+
+- **(a)** Virtual base class
+- **(b)** Class to basic type conversion
+- **(c)** Template
+
+---
+
+**End of 2023 Question Paper (BIT154CO/BIT176CO — New / Back)**
 
 ---
 
