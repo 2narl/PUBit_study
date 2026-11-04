@@ -75,6 +75,84 @@ Write short notes on **ANY TWO**. **[3 + 3]**
 
 **End of 2025 Question Paper**
 
+
+---
+
+# PURBANCHAL UNIVERSITY
+
+## 2024
+
+### Bachelor in Information Technology (B.I.T.) / Second Semester / Final
+
+**Time:** 03:00 hrs.  
+**Full Marks:** 60 / **Pass Marks:** 24  
+**Course Code:** BIT154CO  
+**Subject:** Object Oriented Programming in C++ (New)
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable.*  
+*Figures in the margin indicate full marks.*
+
+## Group A
+
+**Answer TWO questions.**  
+**2 × 12 = 24**
+
+### 1.
+**(a)** What is operator overloading? What are the benefits of operator overloading? Explain with an example. **[5]**
+
+**(b)** Write a program to overload the `-` operator and find the difference between two complex numbers. **[7]**
+
+### 2.
+**(a)** What is inheritance? What are its types? Explain any two of them with examples. **[5]**
+
+**(b)** Write a program using a class to add two objects of a class named `Time`, passing objects as arguments. The `Time` class contains hour, minute and second given by the user as its private data members. Construct appropriate member functions. **[7]**
+
+### 3.
+**(a)** Write the features of a friend function. Write a program to convert distance in meters to kilometers using a friend function. **[6]**
+
+**(b)** Write down the significance of `new` and `delete` operators in C++ with proper examples. **[6]**
+
+---
+
+## Group B
+
+**Answer SIX questions.**  
+**6 × 6 = 36**
+
+### 4.
+What are constructor and destructor? Explain the types of constructor with proper examples. **[2 + 4]**
+
+### 5.
+What do you mean by ambiguity in multipath inheritance? How can the ambiguity issue of multipath inheritance be solved? Explain with an appropriate example.
+
+### 6.
+Explain templates in C++. Write a program to find the largest among 10 numbers using a function template.
+
+### 7.
+What do you mean by conversion? Write a C++ program using the `put()` and `get()` functions.
+
+### 8.
+Explain access specifiers with proper examples for each of them.
+
+### 9.
+Discuss default arguments and their rules. Write a program to calculate the area of a circle using default arguments. **[3 + 3]**
+
+### 10.
+Explain various characteristics of Object-Oriented Programming.
+
+### 11.
+Write short notes on **ANY TWO**. **[3 + 3]**
+
+- **(a)** Namespace
+- **(b)** Inline functions
+- **(c)** Early and late binding
+
+---
+
+**End of 2024 Question Paper**
+
 ---
 
 # PURBANCHAL UNIVERSITY
