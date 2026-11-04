@@ -303,6 +303,80 @@ Write short notes on **ANY TWO**. **[3 + 3]**
 
 **End of 2023 Question Paper (BIT154CO/BIT176CO — New / Back)**
 
+
+# PURBANCHAL UNIVERSITY
+
+## 2022
+
+### Bachelor in Information Technology (B.I.T.) / Second Semester / Final
+
+**Time:** 03:00 hrs.  
+**Full Marks:** 60 / **Pass Marks:** 24  
+**Course Code:** BIT154CO/BIT176CO/BIT124CS  
+**Subject:** Object Oriented Programming in C++ (New / Old)
+
+---
+
+## Group A
+
+**Answer TWO questions.**  
+**2 × 12 = 24**
+
+### 1.
+**(a)** Provide a list and breakdown of the various operator categories available in C++. **[5]**
+
+**(b)** Demonstrate the concept of function overloading by writing an appropriate C++ program. **[7]**
+
+### 2.
+**(a)** Define what a constructor is. Detail the different types of constructors supported in C++ with relevant code examples. **[2 + 8]**
+
+**(b)** Explain what a destructor is and show its usage using an example. **[2]**
+
+### 3.
+**(a)** Explain the concepts of class and object. Create a C++ class named `Employee` containing four private data members (`ID`, `name`, `position`, and `salary`). Include member functions to initialize these data members and display the stored information. **[2 + 6]**
+
+**(b)** Explain how inline functions work in C++ with a code example. **[4]**
+
+---
+
+## Group B
+
+**Answer SIX questions.**  
+**6 × 6 = 36**
+
+### 4.
+Define inheritance in Object-Oriented Programming. Describe the different types of inheritance supported in C++ with examples. **[2 + 4]**
+
+### 5.
+Write an object-oriented program that initializes an integer array containing 10 elements and calculates both the sum and average of those numbers. **[6]**
+
+### 6.
+Write a C++ program to concatenate two strings, `"Hello"` and `"World"`, by overloading the binary `+` operator. **[6]**
+
+### 7.
+*Question not included in the supplied image.*
+
+### 8.
+Define what a container class is in C++. Write a function template program to determine the largest value among three given numbers. **[2 + 4]**
+
+### 9.
+Explain the concept of an abstract base class. Discuss virtual functions and polymorphism using code examples. **[2 + 4]**
+
+### 10.
+Compare and contrast the `public`, `protected`, and `private` access modifiers for class members with examples. **[6]**
+
+### 11.
+Write short notes on **ANY TWO**. **[2 × 4 = 8]**
+
+- **(a)** The `this` pointer/operator
+- **(b)** Class templates
+- **(c)** Encapsulation
+
+---
+
+**End of 2022 Question Paper**
+
+
 ---
 
 # PURBANCHAL UNIVERSITY
