@@ -39,6 +39,22 @@ The following is a brief unit-wise overview. Refer to the official PU syllabus f
 
 > **Note:** This is a study overview, not a replacement for the official syllabus. Always follow the latest syllabus issued by Purbanchal University.
 
+## C++ Programs, Notes, Assignments & Lab Works
+
+For additional practical learning materials, visit the companion GitHub repository:
+
+**[C++ Programming – Second Semester](https://github.com/2narl/cpp_program_2ndsem)**
+
+This repository contains C++ programs related to the BIT second-semester OOP course, including:
+
+- Basic C++ programming examples and practice programs.
+- OOP concepts and related C++ code.
+- Notes and learning materials.
+- Assignment solutions and code.
+- Practical and laboratory work.
+
+Use this repository alongside the course syllabus and class materials to practise programming and strengthen your understanding of OOP in C++.
+
 ## Folder Structure
 
 ```text
