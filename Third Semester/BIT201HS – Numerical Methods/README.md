@@ -58,7 +58,7 @@ Solve nonlinear equations, use interpolation, fit curves, solve linear equations
 12. Runge-Kutta 4th order methods
 
 ## Reference Books
-1. S. S. Sastry, *Introductory Methods of Numerical Analysis*, PHI.
+1. S. S. Sastry, *Introductory Methods of Numerical Analysis*, PHI. ([PDF link](https://www.siirt.edu.tr/dosya/personel/numerik-analiz-siirt-2019217142654486.pdf))
 2. S. Yakowitz & F. Szidarovszky, *An Introduction to Numerical Computations*.
 3. V. N. Vedamurthy and N. Ch. S. N. Iyengar, *Numerical Methods*.
 4. S. S. Sastry, *Engineering Mathematics Volume-II*, PHI.
