@@ -398,6 +398,183 @@ Find the total length of the curve given by
 
 **End of 2025 Question Paper**
 
+
+---
+
+## 2023
+
+### Bachelor in Information Technology (B.I.T.) / First Semester / Final
+
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**Course Codes:** BIT102HS / BIT101SH / BIT111HS  
+**Subject:** Mathematics-I (New/Back)
+
+---
+
+*Note: Candidates are required to give their answers in their own words as far as practicable. The figures in the margin indicate full marks.*
+
+## Exam Structure
+
+| Group | Questions | Marking Scheme | Total Marks |
+| :--- | :--- | :--- | :--- |
+| **Group A** | Q1–Q10 (Answer ALL) | 10 × 2 | **20** |
+| **Group B** | Q11–Q19 (Answer EIGHT) | 8 × 5 | **40** |
+| **Group C** | Q20–Q24 (Answer FOUR) | 4 × 5 | **20** |
+| **Total** | | | **80** |
+
+## Group A
+
+**Answer ALL questions.**  
+**10 × 2 = 20**
+
+### 1.
+Define conic section and its eccentricity. **[2]**
+
+### 2.
+State Rolle's theorem and its geometrical meaning. **[2]**
+
+### 3.
+Evaluate:
+
+**∫₋₁⁰ ∫₀¹ (x²y + xy²) dx dy.** **[2]**
+
+### 4.
+Find the perpendicular vector to the vectors
+
+- **a⃗ = 2i⃗ + 3j⃗ + 4k⃗**
+- **b⃗ = i⃗ − 3j⃗ + 2k⃗**
+
+**[2]**
+
+### 5.
+Verify Euler's theorem for the function **f(x, y) = 5x² + 7xy − 3y²**. **[2]**
+
+### 6.
+Define a Hermitian matrix with example. **[2]**
+
+### 7.
+Transform **x² + y² + z² = 16** to spherical form. **[2]**
+
+### 8.
+Define the area between the curve **y² = 4ax** and the line **x = y**. **[2]**
+
+### 9.
+Find the radius of curvature at the point **(x, y)** of the curve **y² = 4ax**. **[2]**
+
+### 10.
+Evaluate:
+
+**lim (x → π) [cos(x/2)/(x − π)].** **[2]**
+
+---
+
+## Group B
+
+**Answer EIGHT questions.**  
+**8 × 5 = 40**
+
+### 11.
+Find the distance of the point **(2, 3, 4)** from the plane
+
+**3x − 6y + 2z + 11 = 0.** **[5]**
+
+### 12.
+If
+
+**u = sin⁻¹[(x² + y²)/(x + y)]**,
+
+prove that
+
+**x(∂u/∂x) + y(∂u/∂y) = tan u.** **[5]**
+
+### 13.
+Find the centre, foci, eccentricity and directrix of the conic section:
+
+**2x² + 2y² − 28x + 12y + 114 = 0.** **[5]**
+
+### 14.
+Find the total length of the curve given by
+
+**x = a cos³ θ,  y = a sin³ θ.** **[5]**
+
+### 15.
+Solve by Gauss-elimination method:
+
+```text
+2x + 2y + z = 6
+4x + 2y + 3z = 4
+x − y + z = 0
+```
+
+**[5]**
+
+### 16.
+Find the asymptotes of the curve:
+
+**(x + y)²(x + 2y + 2) = x + 9y − 2.** **[5]**
+
+### 17.
+Evaluate:
+
+**lim (x → 0) [tan x / x]^(1/x²).** **[5]**
+
+### 18.
+If **e** denotes the eccentricity of the hyperbola and **e′** that of its conjugate, show that
+
+**1/e² + 1/e′² = 1.** **[5]**
+
+### 19.
+Find the volume of the solid formed by the revolution of the cardioid
+
+**r = a(1 + cos θ)**
+
+about the initial line. **[5]**
+
+---
+
+## Group C
+
+**Answer FOUR questions.**  
+**4 × 5 = 20**
+
+### 20.
+Show that the three vectors
+
+- **a⃗ = i⃗ + j⃗ + k⃗**
+- **b⃗ = 2i⃗ − 3j⃗ − k⃗**
+- **c⃗ = 4i⃗ − j⃗ + k⃗**
+
+are coplanar. **[5]**
+
+### 21.
+Show that
+
+**x/(eˣ − 1) = 1 − x/2 + x²/12 − x⁴/720 + …** **[5]**
+
+### 22.
+Show that
+
+**[a⃗ + b⃗, b⃗ + c⃗, c⃗ + a⃗] = 2[a⃗, b⃗, c⃗].** **[5]**
+
+### 23.
+Prove that
+
+```text
+| a    b    c  |
+| a²   b²   c² | = (a−b)(b−c)(c−a)(ab+bc+ca)
+| bc   ca   ab |
+```
+
+**[5]**
+
+### 24.
+Prove that the rectangle of largest possible area for a given perimeter is a square. **[5]**
+
+---
+
+**End of 2023 Question Paper**
+
 ---
 
 [← Back to BIT102HS Subject README](../README.md)
