@@ -402,41 +402,6 @@ Find the total length of the curve given by
 ---
 
 
-## 2021
-
-### Bachelor in Information Technology (B.I.T.) / First Semester / Final
-
-**Time:** 03:00 hrs.  
-**Full Marks:** 80 / **Pass Marks:** 32  
-**Course Code:** BIT102HS  
-**Subject:** Mathematics-I (New Course)
-
----
-
-## Exam Structure & Topic Overview
-
-| Section | Question Range | Attempt Rule | Marking Scheme | Core Mathematical Topics |
-| :--- | :--- | :--- | :--- | :--- |
-| **Group A** | Q1–Q10 | Answer ALL | 10 × 2 = 20 | Polar-to-Cartesian conversion, triangular matrices, vector identities, conic eccentricity, Mean Value Theorem, radius of curvature, parabola subnormal, Euler's theorem, parametric 3D lines, local extrema |
-| **Group B** | Q11–Q19 | Answer EIGHT | 8 × 5 = 40 | Ellipse tangency condition, plane equations and perpendicularity/parallelism, Cramer's rule and inverse-matrix linear systems, mixed partial derivatives, determinant properties, asymptotes, rotation of coordinate axes, reflection of a point in a plane |
-| **Group C** | Q20–Q24 | Answer FOUR | 4 × 5 = 20 | Polar distance formula, polar curve sketching, Maclaurin series expansion, cylinder optimization (maximum volume for given surface area), parabola sub-tangent and sub-normal |
-| **Total** | | | **80** | |
-
----
-
-## Study Notes & Solution Checklist
-
-- [ ] **Group A (Short Questions):** Review definitions, theorems and quick calculations for Q1–Q10.
-- [ ] **Group B (Analytical Problems):** Practise multi-step geometry, calculus and linear algebra problems for Q11–Q19.
-- [ ] **Group C (Long/Application Problems):** Work through proofs, series expansions and optimization problems for Q20–Q24.
-
-> Add links to personal handwritten notes, LaTeX derivations or code-verification scripts in this repository as you complete each section.
-
----
-
-**End of 2021 Question Paper**
-
----
 
 ## 2023
 
