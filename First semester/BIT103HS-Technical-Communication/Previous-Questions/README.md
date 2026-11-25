@@ -13,23 +13,6 @@
 
 *Note: Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.*
 
-## Exam Structure
-
-| Question | Topic / Type | Marks |
-| :--- | :--- | :--- |
-| **Q1** | Communication & Oral Presentation | **8** |
-| **Q2** | Board of Directors Meeting Minutes | **10** |
-| **Q3** | Periodic Report to CEO | **8** |
-| **Q4** | Essay on Scope of IT at Bachelor Level | **8** |
-| **Q5** | Progress Report to Traffic Police | **8** |
-| **Q6** | Transformation of Sentences (Speech & Voice) | **4** |
-| **Q7** | Fill in the Blanks (Prepositions & Subject-Verb Agreement) | **4** |
-| **Q8** | Short Notes (Any TWO of THREE) | **10** (5+5) |
-| **Total** | **Answer ALL questions** | **60** |
-
----
-
-## Questions
 
 **Answer ALL questions.**
 
