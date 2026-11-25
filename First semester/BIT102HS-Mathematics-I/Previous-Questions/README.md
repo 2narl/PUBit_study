@@ -205,3 +205,199 @@ about the x-axis between **x = 0** and **x = a**. **[5]**
 ---
 
 **End of 2026 Question Paper**
+
+---
+
+## 2025
+
+### Bachelor in Information Technology (B.I.T.) / First Semester / Final
+
+**Time:** 03:00 hrs.  
+**Full Marks:** 80 / **Pass Marks:** 32  
+**Course Code:** BIT102HS  
+**Subject:** Mathematics-I (New)
+
+---
+
+*Candidates are required to give their answers in their own words as far as practicable. The figures in the margin indicate full marks.*
+
+## Exam Structure
+
+| Group | Questions | Marking Scheme | Total Marks |
+| :--- | :--- | :--- | :--- |
+| **Group A** | Q1–Q10 (Answer ALL) | 10 × 2 | **20** |
+| **Group B** | Q11–Q19 (Answer EIGHT) | 8 × 5 | **40** |
+| **Group C** | Q20–Q24 (Answer FOUR) | 4 × 5 | **20** |
+| **Total** | | | **80** |
+
+## Group A
+
+**Answer ALL questions.**  
+**10 × 2 = 20**
+
+### 1.
+Define orthogonal matrix with example. **[2]**
+
+### 2.
+Transform the equation **x² + y² = x** to cylindrical coordinates. **[2]**
+
+### 3.
+Define the Hermitian matrix and Skew Hermitian matrix with examples. **[2]**
+
+### 4.
+Transform the equation **x² + 4xy + y² + 2x = 12** by rotating the axes through an angle of **45°**. **[2]**
+
+### 5.
+If **a⃗ = i⃗ − 2j⃗ + k⃗** and **b⃗ = i⃗ + 2j⃗ − 4k⃗**, find **a⃗ · b⃗** and the angle between them. **[2]**
+
+### 6.
+Show that
+
+```text
+| b²+c²   ab      ac    |
+|   ab   c²+a²    bc    | = 4a²b²c²
+|   ca     cb    a²+b²  |
+```
+
+**[2]**
+
+### 7.
+Find the equation of the plane through the points **(2, 2, 1)**, **(3, 4, 2)** and **(7, 0, 6)**. **[2]**
+
+### 8.
+Evaluate:
+
+**lim (x → 0) (1/x − cot x).** **[2]**
+
+### 9.
+Find partial derivatives **fₓ** and **fᵧ** when
+
+**f(x, y) = xy/(y − x).** **[2]**
+
+### 10.
+Find the arc length of the curve **r = a(1 − cos θ)**. **[2]**
+
+---
+
+## Group B
+
+**Answer EIGHT questions.**  
+**8 × 5 = 40**
+
+### 11.
+Define singular and non-singular matrix. When does inverse of matrix exist? Compute the inverse of the matrix
+
+```text
+[ 2  4 ]
+[ 2  2 ]
+```
+
+**[5]**
+
+### 12.
+Find the eccentricity, identify the conic and directrix. Describe and sketch the graph of the curve
+
+**r = [6 cosec θ]/[2 cosec θ + 3].**
+
+**[5]**
+
+### 13.
+Find the centre, eccentricity, foci and directrices of the hyperbola
+
+**9x² − 16y² + 36x + 32y − 124 = 0.**
+
+**[5]**
+
+### 14.
+Find the value of **c** so that the lines
+
+```text
+(x−1)/(3c) = (y−5)/1 = (z−6)/(−5)
+
+and
+
+(x−1)/(−3) = (y−1)/(2c) = (z−1)/2
+```
+
+are perpendicular to each other. **[5]**
+
+### 15.
+Find the equation of tangent and normal at **(1, 2)** to the curve **y² = 4ax**. **[5]**
+
+### 16.
+Find the radius of curvature at any point of the curve
+
+**x = a(θ + sin θ),  y = a(1 − cos θ).**
+
+**[5]**
+
+### 17.
+Expand **e^(sin x)** by Maclaurin's theorem as far as the term containing **x⁴**. **[5]**
+
+### 18.
+State Euler's theorem. Verify Euler's theorem for the function
+
+**f(x, y) = x(x³ − y³)/(x³ + y³).**
+
+**[5]**
+
+### 19.
+Find the asymptotes of the curve:
+
+**4x³ − 3xy² − y³ + 2x² − xy − y² − 1 = 0.**
+
+**[5]**
+
+---
+
+## Group C
+
+**Answer FOUR questions.**  
+**4 × 5 = 20**
+
+### 20.
+Solve by Gauss-Jordan procedure or Cramer's rule, the following system of equations:
+
+```text
+2x + y + z     = 0
+3x + 2y + 3z   = 18
+x + 4y + 9z    = 16
+```
+
+**[5]**
+
+### 21.
+For all vectors **a⃗, b⃗, c⃗**, prove that:
+
+**a⃗ × (b⃗ × c⃗) + b⃗ × (c⃗ × a⃗) + c⃗ × (a⃗ × b⃗) = 0⃗.**
+
+**[5]**
+
+### 22.
+Find the shortest distance between the two skew lines:
+
+```text
+(x−8)/3 = (y+9)/(−16) = (z−10)/7
+
+(x−15)/3 = (y−29)/8 = (z−5)/(−5)
+```
+
+**[5]**
+
+### 23.
+Find the area included between the parabola **y² = 4x** and **x² = 4y**. **[5]**
+
+### 24.
+Find the total length of the curve given by
+
+**x = a cos³ θ,  y = a sin³ θ.**
+
+**[5]**
+
+---
+
+**End of 2025 Question Paper**
+
+---
+
+[← Back to BIT102HS Subject README](../README.md)
