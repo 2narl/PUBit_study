@@ -66,7 +66,6 @@ This folder contains previous examination question papers for **Purbanchal Unive
    Use it to estimate (f(2.5)).
 
 8. Solve the system by using the Gauss-Jordan method:
-
    [
    2x + 7y + 3z = 5
    ]
@@ -123,7 +122,7 @@ This folder contains previous examination question papers for **Purbanchal Unive
    x_1 + 3x_2 + 2x_3 = 9
    ]
 
-3. Find (d^2y/dx^2) at (x = 0.1) from the following table:
+3. Find (rac{d^2y}{dx^2}) at (x = 0.1) from the following table:
 
    | X | 0.0 | 1.0 | 2.0 | 3.0 | 4.0 |
    | :--- | :---: | :---: | :---: | :---: | :---: |
@@ -149,10 +148,9 @@ This folder contains previous examination question papers for **Purbanchal Unive
    | :--- | :---: | :---: | :---: |
    | **Cos x** | 0.5403 | 0.4536 | 0.3624 |
 
-   Use it to estimate (cos 1.5).
+   Use it to estimate (cos(1.5)).
 
 8. Solve the system by using the Gauss-Jordan method:
-
    [
    3x_1 + 2x_2 + x_3 = 10
    ]
@@ -180,7 +178,57 @@ This folder contains previous examination question papers for **Purbanchal Unive
 ---
 
 ### 2024
-- *Question paper not added yet.*
+
+**University:** Purbanchal University  
+**Program:** Bachelor of Information Technology (B. I. T.) — Third Semester (Final)  
+**Subject:** BIT201HS / BIT280CO: Numerical Methods *(New / Back)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable. The figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. Define convergence. What is the method of iteration in solving numerical problems? Write an algorithm and a program to find a polynomial value at given point using Horner's method. **[2 + 2 + 8]**
+
+2. An object is dropped from a height of 1100 feet. By using elementary physics, the equation of motion is found to be:
+   [
+   f(t) = 1100 - 16t^2
+   ]
+   With the following set of data, approximate the data numerically in polynomial form and sketch the errors in approximation with analytical solution (f(t)) for each observation time. **[8 + 4]**
+
+   | Time (t) (in seconds) | Height (f(t)) (in feet) |
+   | :---: | :---: |
+   | 0 | 1100 |
+   | 1 | 1084 |
+   | 2 | 1036 |
+   | 3 | 956 |
+   | 4 | 844 |
+
+3. When is iteration used? Solve the system of equations using the Gauss-Seidel iterative method. **[2 + 10]**
+   [
+   4x + y + z = -2
+   ]
+   [
+   2x + 4y - z = 1
+   ]
+   [
+   2x - 3y + 6z = 1
+   ]
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. Evaluate (int_{0}^{1} rac{dx}{1 + x^2}) using Simpson's (3/8) rule, taking 8 strips. Also estimate error and the value of (pi).
+
+> **Note:** The supplied 2024 question paper ends at Question 4 with “Contd. ...”. The remaining questions from Group B have not yet been provided.
+
+---
 
 ### 2023
 - *Question paper not added yet.*
