@@ -101,3 +101,51 @@
     - **(a)** Priority queue
     - **(b)** Adjancy *(Adjacency)* matrix representation
     - **(c)** Types of data structure
+
+---
+
+## 2024 (Final / Back)
+
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester / Final / Back  
+**Subject:** BIT203CO / BIT273CO / BIT215CS: Data Structure & Algorithm  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.
+
+---
+
+### Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. Explain different types of graphs. Discuss shortest path algorithm with example.
+
+2. Explain binary tree with its type. Discuss Huffman algorithm with proper example.
+
+3. Explain the advantage of circular queue over linear queue. Write an algorithm to insert and delete an element in a linear queue.
+
+---
+
+### Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. Discuss stack with its operations and applications.
+
+5. Explain the algorithm for evaluating a postfix expression.
+
+6. Explain linked list with its types. Differentiate between recursion with iteration.
+
+7. Explain ADT and its application. Discuss about TOH.
+
+8. Discuss different tree traversal methods with example.
+
+9. What is sorting? Explain merge sort with proper example.
+
+10. What is spanning tree? Explain with example.
+
+11. Explain different types of hash collision resolution techniques in brief.
+
+12. Write short notes on Any TWO: **[2 × 4 = 8]**
+    - **(a)** Priority queue
+    - **(b)** Hash function
+    - **(c)** Big O notation
