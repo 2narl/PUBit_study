@@ -224,9 +224,60 @@ This folder contains previous examination question papers for **Purbanchal Unive
 ## Group B
 **Answer SEVEN questions.** *(7 × 8 = 56)*
 
-4. Evaluate (int_{0}^{1} rac{dx}{1 + x^2}) using Simpson's (3/8) rule, taking 8 strips. Also estimate error and the value of (pi).
+4. Evaluate the integral
 
-> **Note:** The supplied 2024 question paper ends at Question 4 with “Contd. ...”. The remaining questions from Group B have not yet been provided.
+   \[
+   \int_{0}^{1} \frac{dx}{1+x^2}
+   \]
+
+   using Simpson's \(\frac{3}{8}\) rule, taking 8 strips. Also estimate the error and the value of \(\pi\).
+
+5. What is a Lagrange interpolation polynomial? Find the Lagrange interpolation polynomial from the data given below:
+
+   | \(x\) | 0 | 1 | 2 | 3 |
+   | :---: | :---: | :---: | :---: | :---: |
+   | \(y\) | 2 | 5 | 7 | 12 |
+
+6. Show that the Newton-Raphson method is said to have quadratic convergence.
+
+7. Show that \(f(x)=x^4+x-1\) has a real root in the interval \([0.5,1.0]\) using the Bisection method, correct up to 3 decimal places.
+
+8. Solve
+
+   \[
+   \frac{dy}{dx}-x^2-y^2=0
+   \]
+
+   using the fourth-order Runge-Kutta (RK4) method to find \(y(1.8)\). The initial condition is \(y(1)=1\) and \(h=0.4\).
+
+9. Determine the largest eigenvalue and the corresponding eigenvectors for the matrix using the Power Method:
+
+   \[
+   A=
+   \begin{bmatrix}
+   1 & 6 & 1 \\
+   1 & 2 & 0 \\
+   0 & 0 & 3
+   \end{bmatrix}
+   \]
+
+10. The distance travelled by a car is given in the table below. Find the velocity of the car at 5 minutes and the acceleration at 6.5 minutes using Numerical Differentiation.
+
+    | Time (minutes) | 4.5 | 5.0 | 5.5 | 6.0 | 6.5 | 7.0 | 7.5 |
+    | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **Distance (0.1 km)** | 12.247 | 12.329 | 12.410 | 12.490 | 26.37 | 33.34 | 39.15 |
+
+11. The following data gives the number of motorbikes in Kathmandu Valley for every 2-year period. Approximate the data by the Least Squares Method using an exponential curve of the form \(y=ae^{bx}\).
+
+    | Year interval (\(x\)) | 2 | 4 | 6 | 8 | 10 |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **Motorbike count (in thousands), \(f(x)\)** | 4.077 | 11.084 | 30.128 | 81.897 | 222.62 |
+
+12. Interpolate \(y(9)\) from the data given below:
+
+    | \(x\) | 2 | 4 | 6 | 8 | 10 | 12 |
+    | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+    | \(y\) | 3 | 5 | 9 | 15 | 20 | 24 |
 
 ---
 
