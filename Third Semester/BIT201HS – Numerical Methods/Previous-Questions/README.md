@@ -282,7 +282,93 @@ This folder contains previous examination question papers for **Purbanchal Unive
 ---
 
 ### 2023
-- *Question paper not added yet.*
+
+**University:** Purbanchal University  
+**Program:** Bachelor of Information Technology (B.I.T.) — Third Semester (Final)  
+**Subject:** BIT201HS / BIT280CO: Numerical Methods *(New/Back)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable. The figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. Fit a geometric curve \(y = ax^2 + bx + c\) to the following data:
+
+   | X | 2 | 3 | 4 | 5 |
+   | :---: | :---: | :---: | :---: | :---: |
+   | **Y** | 6 | 11 | 18 | 27 |
+
+2. What is iterative process? When is it used? Solve the following system of equations by Gauss-Jacobi iterative method:
+
+   \[
+   10x + 5y + 3z = 20
+   \]
+   \[
+   3x + 20y + 7z = 28
+   \]
+   \[
+   8x + 9y + 24z = 30
+   \]
+
+3. Find \(\frac{d^2y}{dx^2}\) at \(x = 0.1\) from the following table.
+
+   | X | 0.0 | 1.0 | 2.0 | 3.0 | 4.0 |
+   | :---: | :---: | :---: | :---: | :---: | :---: |
+   | **Y** | 1.0000 | 0.9975 | 0.9900 | 0.9976 | 0.9604 |
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. Discuss numerical methods. Explain in detail the taxonomy of errors with necessary blocks.
+
+5. Obtain any one of the real roots of the given equation using the Bisection method:
+   \[
+   x^3 + x^2 - 1 = 0
+   \]
+
+6. Find the root of the equation \(f(x) = x^2 - 3x + 2\) using the Newton-Raphson method. Use \(x_1 = 0\).
+
+7. Evaluate the following integral using Simpson's \(3/8\) rule. Also estimate the value of \(\ln 2\):
+   \[
+   \int_0^1 \frac{dx}{1+x}
+   \]
+
+8. What is interpolation? Find the Lagrange interpolation polynomial that agrees with the following data:
+
+   | X | 1.0 | 1.1 | 1.2 |
+   | :---: | :---: | :---: | :---: |
+   | \(\cos x\) | 0.5403 | 0.4536 | 0.3624 |
+
+   Use it to estimate \(\cos(1.15)\).
+
+9. Solve the following system by using the LU Decomposition method:
+
+   \[
+   3x_1 + 2x_2 + x_3 = 10
+   \]
+   \[
+   2x_1 + 3x_2 + 2x_3 = 14
+   \]
+   \[
+   x_1 + 2x_2 + 3x_3 = 14
+   \]
+
+10. Estimate the production of electricity for the year 1997 from the data given below:
+
+    | Year | 1995 | 2000 | 2005 | 2010 | 2015 |
+    | :---: | :---: | :---: | :---: | :---: | :---: |
+    | **Production of electricity** | 2 | 5 | 10 | 12 | 18 |
+
+11. Use the fourth-order Runge-Kutta method to find the value of \(y(0.2)\). Given:
+    \[
+    \frac{dy}{dx} = x + y,\qquad y(0) = 3,\qquad h = 0.1
+    \]
 
 ### 2022
 - *Question paper not added yet.*
