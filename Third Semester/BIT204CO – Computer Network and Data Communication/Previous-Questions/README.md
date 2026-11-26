@@ -75,7 +75,7 @@ This folder contains previous examination question papers for **Purbanchal Unive
    - **(a)** Subnet mask of each department
    - **(b)** Network address, usable host address range and broadcast address of each department
 
-2. **(a)** Explain siliding *(sliding)* window protocol. **[6]**  
+2. **(a)** Explain sliding window protocol. **[6]**  
    **(b)** Explain types of unguided medium. **[6]**
 
 3. Why is data encoding required? Encode `11010101` into signal by following methods: **[2+10]**
@@ -112,7 +112,52 @@ This folder contains previous examination question papers for **Purbanchal Unive
 ---
 
 ### 2024
-- *Question paper not added yet.*
+
+**University:** Purbanchal University  
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester (Final)  
+**Subject:** BIT204CO: Computer Network and Data Communication *(New Course)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. What is signal modulation? Briefly discuss about amplitude, frequency and phase modulation. **[2+10]**
+
+2. Why does error occur during data transmission? Calculate the CRC at sending end for data stream `101010101110` using divisor polynomial (P(x) = x^3 + x). **[2+10]**
+
+3. What is the function of a routing protocol? What do you mean by adaptive and non-adaptive routing? Also differentiate between distance-vector and link-state routing protocol. **[2+4+6]**
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. What are the uses of computer network? Explain about client/server network model. **[3+5]**
+
+5. **(a)** Explain the functions of transport layer. **[3]**  
+   **(b)** What is NAT? How does it work? Explain. **[5]**
+
+6. What is the function of protocols in data communication? Discuss about TCP/IP protocol suite. **[2+6]**
+
+7. What is half-duplex transmission? Differentiate between circuit switching and packet switching. **[2+6]**
+
+8. Why is there a need for IPv6? Explain about dual stack used in IPv6. **[2+6]**
+
+9. What is DNS? Explain roles and the process of domain name resolution. **[1+7]**
+
+10. What is cryptography? Explain symmetric and asymmetric key encryption. **[1+7]**
+
+11. Write short notes on **Any TWO**: **[2×4=8]**
+    - **(a)** ARP and RARP
+    - **(b)** FTP
+    - **(c)** Token ring
+
+---
 
 ### 2023
 - *Question paper not added yet.*
