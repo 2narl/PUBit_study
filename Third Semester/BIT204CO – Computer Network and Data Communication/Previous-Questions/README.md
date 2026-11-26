@@ -57,7 +57,59 @@ This folder contains previous examination question papers for **Purbanchal Unive
 ---
 
 ### 2025
-- *Question paper not added yet.*
+
+**University:** Purbanchal University  
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester (Final)  
+**Subject:** BIT204CO: Computer Network and Data Communication *(New Course)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable. The figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. What is subnetting and why is subnetting needed? Suppose you are a network administrator of XYZ organization and your organization uses `17.13.0.0/19` network. Perform subnetting for 6 departments and calculate the followings: **[3+2+7]**
+   - **(a)** Subnet mask of each department
+   - **(b)** Network address, usable host address range and broadcast address of each department
+
+2. **(a)** Explain siliding *(sliding)* window protocol. **[6]**  
+   **(b)** Explain types of unguided medium. **[6]**
+
+3. Why is data encoding required? Encode `11010101` into signal by following methods: **[2+10]**
+   - **(a)** NRZ-I
+   - **(b)** RZ
+   - **(c)** FSK
+   - **(d)** Differential Manchester
+   - **(e)** PSK
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. Why is networking done? Compare between LAN, MAN and WAN. **[2+6]**
+
+5. What do you mean by transmission impairments? Explain different types of transmission impairments with solutions. **[2+6]**
+
+6. Define switching. Compare between datagram and virtual circuit packet switching techniques. **[2+6]**
+
+7. Why is routing done? Compare between distance vector and link state routing algorithms. **[2+6]**
+
+8. What is the purpose of layered approach? Explain OSI reference model in detail. **[2+6]**
+
+9. Define VPN. Explain different types of VPN with its working mechanism. **[2+6]**
+
+10. How does DNS work? Explain DNS architecture. **[2+6]**
+
+11. Write short notes on **Any TWO**: **[2×4=8]**
+    - **(a)** File transfer protocol
+    - **(b)** Symmetric cryptography
+    - **(c)** UDP protocol
+
+---
 
 ### 2024
 - *Question paper not added yet.*
