@@ -104,7 +104,54 @@ This folder contains previous examination question papers for **Purbanchal Unive
 - *Question paper not added yet.*
 
 ### 2023
-- *Question paper not added yet.*
+
+**University:** Purbanchal University  
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester (Final)  
+**Subject:** BIT202CO: Microcontroller *(New Course)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable.  
+> Figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. With a neat pin diagram, explain the function of pins in 8051.
+
+2. List the instructions used in 8051. Explain any two types in detail.
+
+3. Write an assembly language program and a C program to continuously toggle the contents of Port 0 and Port 1 after some delay.
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. Differentiate between a microprocessor and a microcontroller.
+
+5. Explain the PSW and its structure in 8051 with a diagram.
+
+6. Differentiate between CALL and JUMP. Explain the types of CALL.
+
+7. What is meant by stack overflow? Discuss its consequences and explain how it can be avoided.
+
+8. Explain the importance of the T1 and R1 flags.
+
+9. Write a program to generate a square wave of 1 KHz frequency on P2.0. Assume crystal frequency = 11.0592 MHz.
+
+10. Explain the bit pattern of the SCON register of the 8051 microcontroller.
+
+11. Explain the TCON register of 8051 with a diagram.
+
+12. Write a program to add three numbers stored at internal RAM addresses 10H, 11H, and 12H. Store the lower byte of the result at internal RAM address 20H and the upper byte at 21H.
+
+13. Write short notes on any TWO:
+    - **(a)** DAC
+    - **(b)** LCD
+    - **(c)** RS-232
 
 ### 2022
 - *Question paper not added yet.*
