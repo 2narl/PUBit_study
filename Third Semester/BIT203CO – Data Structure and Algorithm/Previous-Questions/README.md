@@ -1,4 +1,5 @@
 # PURBANCHAL UNIVERSITY
+
 ## 2026
 
 **Program:** Bachelor in Information Technology (B.I.T.) / Third Semester / Final  
@@ -50,3 +51,53 @@
     - **(a)** AVL tree.
     - **(b)** Deque
     - **(c)** Binary Search Tree (BST)
+
+---
+
+## 2025
+
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester / Final  
+**Subject:** BIT203CO / BIT273CO / BIT215CS: Data Structure & Algorithm *(New/Back)*
+
+| Time | Full Marks | Pass Marks |
+| :--- | :---: | :---: |
+| 03:00 hrs. | 80 | 32 |
+
+> *Candidates are required to give their answers in their own words as far as practicable. Figure in the margin indicate full marks.*
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. What is minimum spanning tree? Describe the algorithm which describes it with example.
+
+2. Why we need to use graph? Explain different types of graphs with example. Explain different properties of tree. **[3+5+4]**
+
+3. What is binary tree? Discuss different types of binary tree traversal method with illustrations.
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. What is stack? Discuss PUSH and POP operation of stack with example.
+
+5. Explain different types of queue with example.
+
+6. Discuss different types of linear linked list. Write an algorithm to insert as a first node in the linked list.
+
+7. What is recursion? Explain TOH *(Tower of Hanoi)* with example.
+
+8. Describe the advantages of circular queue over linear queue.
+
+9. Why sorting is required? Discuss bubble sort with example.
+
+10. Explain binary searching with suitable illustration and explanation.
+
+11. Explain doubly linked list. What are the major advantages of doubly linked list over singly linked list? **[4+4]**
+
+12. Write short notes on **Any TWO**: **[4+4]**
+    - **(a)** Priority queue
+    - **(b)** Adjancy *(Adjacency)* matrix representation
+    - **(c)** Types of data structure
