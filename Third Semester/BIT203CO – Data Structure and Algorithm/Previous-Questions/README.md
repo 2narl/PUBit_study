@@ -104,6 +104,68 @@
 
 ---
 
+## 2023
+
+**University:** Purbanchal University  
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester / Final  
+**Subject:** BIT203CO / BIT273CO: Data Structure & Algorithm *(New/Back)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable.  
+> Figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. Explain different types of operations on a stack. Write an algorithm to insert an item in a circular queue. **[6+6]**
+
+2. Why is Dijkstra's algorithm considered a greedy approach? Find the shortest path using Dijkstra's algorithm. **[4+8]**
+
+   **Graph details:** Weighted undirected graph with vertices 0 through 8 and the following edge weights:
+
+   | Edge | Weight | Edge | Weight |
+   | :---: | :---: | :---: | :---: |
+   | (0, 1) | 4 | (0, 4) | 5 |
+   | (1, 2) | 8 | (1, 4) | 11 |
+   | (2, 3) | 7 | (2, 8) | 2 |
+   | (2, 6) | 4 | (3, 7) | 9 |
+   | (3, 6) | 14 | (4, 8) | 7 |
+   | (4, 5) | 1 | (5, 8) | 6 |
+   | (5, 6) | 2 | (6, 7) | 10 |
+
+   *The original question refers to the weighted undirected graph shown on page 4 of the question paper PDF.*
+
+3. What is a doubly linked list? Write an algorithm to delete the last node of a singly linked list with proper representation. **[2+10]**
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. Define AVL tree. Explain the Tower of Hanoi (ToH) problem with 3 disks. **[2+6]**
+
+5. Differentiate between linear queue and circular queue. Explain the advantages of circular queue with an example. **[4+4]**
+
+6. Discuss the difference between recursion and iteration with examples. Also write an algorithm to find the factorial of a number. **[4+4]**
+
+7. What is sorting? Explain Quick Sort with an example. **[2+6]**
+
+8. What is asymptotic notation? Describe it with a diagram.
+
+9. What is hashing? Explain different hash collision resolution techniques briefly.
+
+10. Differentiate between DFS and BFS methods with suitable examples. **[4+4]**
+
+11. Write short notes on any TWO:
+    - **(a)** Efficiency of sorting
+    - **(b)** Abstract Data Type (ADT)
+    - **(c)** Pre-order tree traversal
+
+---
+
 ## 2024 (Final / Back)
 
 **Program:** Bachelor in Information Technology (B.I.T.) — Third Semester / Final / Back  
