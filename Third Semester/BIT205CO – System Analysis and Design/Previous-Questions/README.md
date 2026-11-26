@@ -122,7 +122,51 @@ This folder contains previous examination question papers for **Purbanchal Unive
 ---
 
 ### 2023
-- *Question paper not added yet.*
+
+**University:** Purbanchal University  
+**Program:** Bachelor in Information Technology (B.I.T.) — Third Semester (Final)  
+**Subject:** BIT205CO / BIT270CO: System Analysis & Design *(New/Back Course)*  
+**Duration:** 03:00 hrs.  
+**Full Marks:** 80 | **Pass Marks:** 32
+
+> Candidates are required to give their answers in their own words as far as practicable. Figures in the margin indicate full marks.
+
+---
+
+## Group A
+**Answer TWO questions.** *(2 × 12 = 24)*
+
+1. What do you mean by feasibility study? What are the important points that an analyst should keep in mind during feasibility study? Discuss the output of feasibility study.
+
+2. Explain the process of system planning and initial investigation. Explain few methods of data collection.
+
+3. What is object oriented analysis and design? Draw a use-case diagram for a Library Management System for an academic institution.
+
+---
+
+## Group B
+**Answer SEVEN questions.** *(7 × 8 = 56)*
+
+4. What is SDLC and under what situations, it is more suitable? Give reasons.
+
+5. What is DFD? Explain context diagram with a suitable example.
+
+6. What is system testing necessary? Explain various types of system testing strategies.
+
+7. What is cost/benefit analysis? Why is it necessary to perform cost/benefit analysis?
+
+8. What are CASE tools? Why do system designer use case tools? Explain various types of case tools.
+
+9. What do you mean by Quality Assurance? Why is it important that the system you develop should have quality attributes?
+
+10. What is physical database design? Explain the process of file organization along with its significance.
+
+11. What is data dictionary? Explain about decision-table and its use with example.
+
+12. Write short notes on **Any TWO**:
+    - **(a)** Prototyping model
+    - **(b)** Cohesion and coupling
+    - **(c)** System maintenance
 
 ### 2022
 - *Question paper not added yet.*
