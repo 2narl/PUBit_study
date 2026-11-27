@@ -48,4 +48,11 @@ Provide fundamental concepts of data communications and networking and their pra
 7. D. E. Comer, *Computer Networks & Internet*, 2nd Edition, Pearson Education.
    - PDF (5th Edition): [PDF Link](http://vidhyaagiricollege.ac.in/E-Resource/Media/IT/Computer_Networks_And_Internets.pdf)
 
-Notes, previous questions, and networking lab reports will be added here.
+## Previous Questions
+```text
+Previous-Questions/
+└── README.md
+```
+The `README.md` file contains previous examination question papers organized by year.
+
+Notes and networking lab reports will be added here.
