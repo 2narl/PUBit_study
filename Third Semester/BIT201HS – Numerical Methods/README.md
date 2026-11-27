@@ -65,4 +65,11 @@ Solve nonlinear equations, use interpolation, fit curves, solve linear equations
 5. E. Balagurusamy, *Numerical Methods*.
 6. B. S. Grewal, *Numerical Method*.
 
-Notes, previous questions, and lab programs will be added here.
+## Previous Questions
+```text
+Previous-Questions/
+└── README.md
+```
+The `README.md` file contains previous examination question papers organized by year.
+
+Notes and lab programs will be added here.
