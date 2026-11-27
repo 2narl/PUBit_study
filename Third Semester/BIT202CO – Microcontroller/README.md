@@ -39,4 +39,11 @@ The syllabus states that practical work consists of all features of Microcontrol
    
    - <a href="http://103.83.136.203:802/KDK-%20DATA%20CENTER/2.3)%20Knowledge%20Resources%20for%20Library%20Enrichment/E%20books/CT-IT%20Department/V%20and%20VI%20Sem/Embedded%20Systems%20-Raj%20Kamal%20(%20PDFDrive.com%20).pdf">Book PDF link</a>
 
-Notes, previous questions, and 8051 Assembly/C programs will be added here.
+## Previous Questions
+```text
+Previous-Questions/
+└── README.md
+```
+The `README.md` file contains previous examination question papers organized by year.
+
+Notes and 8051 Assembly/C programs will be added here.
