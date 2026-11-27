@@ -55,13 +55,7 @@ README.md/
 ├── README.md
 └── Previous-Questions/
     └── README.md
-        ├── 2025
-        ├── 2024
-        ├── 2023
-        ├── 2022
-        └── 2021
 ```
 
-The `Previous-Questions/README.md` file organizes previous examination question papers by year.
-
+The `Previous-Questions/README.md` file contains the available question papers organized under year headings.
 Notes and networking lab reports will be added here.
