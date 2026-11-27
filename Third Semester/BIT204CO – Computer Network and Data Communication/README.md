@@ -48,8 +48,10 @@ Provide fundamental concepts of data communications and networking and their pra
 7. D. E. Comer, *Computer Networks & Internet*, 2nd Edition, Pearson Education.
    - PDF (5th Edition): [PDF Link](http://vidhyaagiricollege.ac.in/E-Resource/Media/IT/Computer_Networks_And_Internets.pdf)
 
-## Previous Questions
+## Folder Structure
+
 ```text
+README.md/
 ├── README.md
 └── Previous-Questions/
     └── README.md
@@ -59,6 +61,7 @@ Provide fundamental concepts of data communications and networking and their pra
         ├── 2022
         └── 2021
 ```
+
 The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 
 Notes and networking lab reports will be added here.
