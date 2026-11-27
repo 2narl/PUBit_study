@@ -42,7 +42,7 @@ The syllabus states that practical work consists of all features of Microcontrol
 ## Folder Structure
 
 ```text
-BIT_SUBJECT_FOLDER/
+README.md/
 ├── README.md
 └── Previous-Questions/
     └── README.md
