@@ -28,8 +28,10 @@ Build a foundation for systems analysts and users involved in developing systems
 5. Grady Booch, *Object Oriented Analysis & Design with Applications*, Pearson Education.
    - PDF (3rd Edition): [PDF Link](https://zjnu2017.github.io/OOAD/reading/Object.Oriented.Analysis.and.Design.with.Applications.3rd.Edition.by.Booch.pdf)
 
-## Previous Questions
+## Folder Structure
+
 ```text
+README.md/
 ├── README.md
 └── Previous-Questions/
     └── README.md
@@ -39,6 +41,7 @@ Build a foundation for systems analysts and users involved in developing systems
         ├── 2022
         └── 2021
 ```
+
 The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 
 Notes, diagrams, and case studies will be added here.
