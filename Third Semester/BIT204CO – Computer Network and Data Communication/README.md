@@ -50,9 +50,15 @@ Provide fundamental concepts of data communications and networking and their pra
 
 ## Previous Questions
 ```text
-Previous-Questions/
-└── README.md
+├── README.md
+└── Previous-Questions/
+    └── README.md
+        ├── 2025
+        ├── 2024
+        ├── 2023
+        ├── 2022
+        └── 2021
 ```
-The `README.md` file contains previous examination question papers organized by year.
+The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 
 Notes and networking lab reports will be added here.
