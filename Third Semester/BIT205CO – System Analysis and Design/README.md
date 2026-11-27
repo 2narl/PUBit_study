@@ -26,5 +26,6 @@ Build a foundation for systems analysts and users involved in developing systems
 3. *System Analysis & Design*, Englewood Cliffs, New Jersey.
 4. Jeffrey L. Whitten, Loonnie D. Bentley, *System Analysis and Design Methods*, 5th Edition.
 5. Grady Booch, *Object Oriented Analysis & Design with Applications*, Pearson Education.
+   - PDF (3rd Edition): [PDF Link](https://zjnu2017.github.io/OOAD/reading/Object.Oriented.Analysis.and.Design.with.Applications.3rd.Edition.by.Booch.pdf)
 
 Notes, previous questions, diagrams, and case studies will be added here.
