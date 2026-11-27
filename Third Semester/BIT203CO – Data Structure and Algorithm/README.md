@@ -44,8 +44,10 @@ Provide fundamental knowledge of data structure, various algorithms, and their i
 7. G. Brassard & P. Bratley, *Fundamentals of Algorithms*, PHI.
    - PDF: [PDF](https://cerocks.wordpress.com/wp-content/uploads/2011/03/fundamentals-of-algorithmics-brassard_ingles.pdf)
 
-## Previous Questions
+## Folder Structure
+
 ```text
+README.md/
 ├── README.md
 └── Previous-Questions/
     └── README.md
@@ -55,6 +57,7 @@ Provide fundamental knowledge of data structure, various algorithms, and their i
         ├── 2022
         └── 2021
 ```
+
 The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 
 Notes and lab programs will be added here.
