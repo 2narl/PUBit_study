@@ -35,6 +35,7 @@ The syllabus states that practical work consists of all features of Microcontrol
 2. Kenneth J. Ayala, *The 8051 Microcontroller*, 3rd Edition, Thomson/Cengage Learning.  
    - [PDF link](https://buddhiprakash.weebly.com/uploads/4/5/3/2/45327319/8051microcontroller-ayala.pdf) (Book PDF)
 3. Manish K. Patel, *The 8051 Microcontroller Based Embedded Systems*, McGraw Hill, 2014.
-4. Raj Kamal, *Microcontrollers: Architecture, Programming, Interfacing and System Design*, Pearson Education, 2005.
+4. Raj Kamal, *Microcontrollers: Architecture, Programming, Interfacing and System Design*, Pearson Education, 2005.  
+   - [Pearson publisher page (2nd edition)](https://www.pearsoned.co.in/prc/book/raj-kamal-microcontrollers-architecture-programming-interfacing-system-design-2e--2/9788131759905)
 
 Notes, previous questions, and 8051 Assembly/C programs will be added here.
