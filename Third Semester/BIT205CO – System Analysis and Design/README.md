@@ -22,6 +22,7 @@ Build a foundation for systems analysts and users involved in developing systems
 ## Reference Books
 1. Igor Hawryszkiewycz, *Introduction to System Analysis & Design*, PHI, 4th Edition.
 2. Jeffrey A. Hoffer, Joey F. George, Joseph S. Valacich, *Modern System Analysis & Design*, Pearson Education, 2nd Edition.
+   - PDF (8th Edition): [PDF Link](https://gulf.edu.sa/assets/lib/cs/modern-systems-analysis-and-design.pdf)
 3. *System Analysis & Design*, Englewood Cliffs, New Jersey.
 4. Jeffrey L. Whitten, Loonnie D. Bentley, *System Analysis and Design Methods*, 5th Edition.
 5. Grady Booch, *Object Oriented Analysis & Design with Applications*, Pearson Education.
