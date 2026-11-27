@@ -36,7 +36,7 @@ The syllabus states that practical work consists of all features of Microcontrol
    - [PDF link](https://buddhiprakash.weebly.com/uploads/4/5/3/2/45327319/8051microcontroller-ayala.pdf) (Book PDF)
 3. Manish K. Patel, *The 8051 Microcontroller Based Embedded Systems*, McGraw Hill, 2014.
 4. Raj Kamal, *Microcontrollers: Architecture, Programming, Interfacing and System Design*, Pearson Education, 2005.  
-   - [PDF link](http://103.83.136.203:802/KDK-%20DATA%20CENTER/2.3)%20Knowledge%20Resources%20for%20Library%20Enrichment/E%20books/CT-IT%20Department/V%20and%20VI%20Sem/Embedded%20Systems%20-Raj%20Kamal%20(%20PDFDrive.com%20).pdf) (External library link)
-   - [Pearson publisher page (2nd edition)](https://www.pearsoned.co.in/prc/book/raj-kamal-microcontrollers-architecture-programming-interfacing-system-design-2e--2/9788131759905)
+   
+   - [Book PDF Link](http://103.83.136.203:802/KDK-%20DATA%20CENTER/2.3%20Knowledge%20Resources%20for%20Library%20Enrichment/E%20books/CT-IT%20Department/V%20and%20VI%20Sem/Embedded%20Systems%20-Raj%20Kamal%20(%20PDFDrive.com%20).pdf)
 
 Notes, previous questions, and 8051 Assembly/C programs will be added here.
