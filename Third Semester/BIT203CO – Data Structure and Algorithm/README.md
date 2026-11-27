@@ -35,6 +35,7 @@ Provide fundamental knowledge of data structure, various algorithms, and their i
 ## Reference Books
 1. A. M. Tenenbaum, Y. Langsam, M. J. Augenstein, *Data Structures using C & C++*, PHI.
 2. H. Sahni, *Fundamentals of Computer Algorithms*.
+   - [Official publisher page – Universities Press](https://www.universitiespress.com/details?id=9788173716126)
 3. Robert L. Kruse, B. P. Leung, C. L. Tondo, *Data Structure of Program Design in C*, PHI.
 4. Donald E. Knuth, *The Art of Programming, Sorting & Searching*.
 5. Trebly & Sorenson, *Data Structure & Application*.
