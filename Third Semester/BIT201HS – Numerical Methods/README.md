@@ -68,7 +68,7 @@ Solve nonlinear equations, use interpolation, fit curves, solve linear equations
 ## Folder Structure
 
 ```text
-BIT_SUBJECT_FOLDER/
+README.md/
 ├── README.md
 └── Previous-Questions/
     └── README.md
