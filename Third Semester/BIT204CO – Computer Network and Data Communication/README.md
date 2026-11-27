@@ -46,5 +46,6 @@ Provide fundamental concepts of data communications and networking and their pra
 5. Kenneth C. Mansfield Jr. & James L. Antonakos, *An Introduction to Computer Networking*, PHI.
 6. Annabel Z. Dodd, *The Essential Guide to Telecommunications*, 3rd Edition, Pearson Education.
 7. D. E. Comer, *Computer Networks & Internet*, 2nd Edition, Pearson Education.
+   - PDF (5th Edition): [PDF Link](http://vidhyaagiricollege.ac.in/E-Resource/Media/IT/Computer_Networks_And_Internets.pdf)
 
 Notes, previous questions, and networking lab reports will be added here.
