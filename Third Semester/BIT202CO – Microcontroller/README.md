@@ -41,9 +41,15 @@ The syllabus states that practical work consists of all features of Microcontrol
 
 ## Previous Questions
 ```text
-Previous-Questions/
-└── README.md
+├── README.md
+└── Previous-Questions/
+    └── README.md
+        ├── 2025
+        ├── 2024
+        ├── 2023
+        ├── 2022
+        └── 2021
 ```
-The `README.md` file contains previous examination question papers organized by year.
+The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 
 Notes and 8051 Assembly/C programs will be added here.
