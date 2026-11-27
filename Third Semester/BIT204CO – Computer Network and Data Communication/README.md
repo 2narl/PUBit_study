@@ -37,9 +37,9 @@ Provide fundamental concepts of data communications and networking and their pra
 
 ## Reference Books
 1. William Stallings, *Data & Computer Communications*, 7th Edition, Pearson Education.
-   - PDF: [Download PDF](https://ftp.utcluj.ro/pub/users/dadarlat/retele_an3/stuff/Data.And.Computer.Communications.8e.WilliamStallings.pdf)
+   - PDF: [PDF Link](https://ftp.utcluj.ro/pub/users/dadarlat/retele_an3/stuff/Data.And.Computer.Communications.8e.WilliamStallings.pdf)
 2. A. S. Tanenbaum, *Computer Networks*, 4th Edition, Pearson Education / PHI.
-   - PDF: [Download PDF](https://pcenagpur.edu.in/assets/books/Conputer_Nerworks.pdf)
+   - PDF: [PDF Link](https://pcenagpur.edu.in/assets/books/Conputer_Nerworks.pdf)
 3. Behrouz A. Forouzan, *Data Communications and Networking*, 5th Edition, McGraw-Hill.
    - PDF: [PDF Link](https://jcer.in/jcer-docs/E-Learning/Digital%20Library%20/E-Books/Data-Communications-and-Network-5e.pdf)
 4. Fred Halsall, *Data Communications, Computer Networks & Open Systems*, 4th Edition, Pearson Education.
