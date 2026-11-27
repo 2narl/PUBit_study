@@ -71,3 +71,8 @@ For questions, suggestions, corrections, or contributions:
 ## A Note from the Maintainer
 
 I sincerely apologize that I have not been able to complete all the planned materials yet. Some content is still missing or incomplete. I am working on it and will continue updating this repository gradually with more study resources and useful learning materials. Thank you for your patience and understanding.
+
+## Recommended Book — Data Structure & Algorithm
+
+1. Donald E. Knuth, *The Art of Programming, Sorting & Searching*.
+   - **PDF:** https://vivekupadhyay125.wordpress.com/wp-content/uploads/2013/08/donald-e-knuth-the-art-of-computer-programming-vol-3.pdf
