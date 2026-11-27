@@ -38,6 +38,7 @@ Provide fundamental knowledge of data structure, various algorithms, and their i
    - PDF: [ PDF Link](https://jainakshay781.wordpress.com/wp-content/uploads/2017/12/horowitz-and-sahani-fundamentals-of-computer-algorithms-2nd-edition.pdf)
 3. Robert L. Kruse, B. P. Leung, C. L. Tondo, *Data Structure of Program Design in C*, PHI.
 4. Donald E. Knuth, *The Art of Programming, Sorting & Searching*.
+   - PDF: [Download PDF](https://vivekupadhyay125.wordpress.com/wp-content/uploads/2013/08/donald-e-knuth-the-art-of-computer-programming-vol-3.pdf)
 5. Trebly & Sorenson, *Data Structure & Application*.
 6. G. W. Rowe, *Introduction to Data Structure & Algorithms with C & C++*, PHI.
 7. G. Brassard & P. Bratley, *Fundamentals of Algorithms*, PHI.
