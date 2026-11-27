@@ -65,8 +65,10 @@ Solve nonlinear equations, use interpolation, fit curves, solve linear equations
 5. E. Balagurusamy, *Numerical Methods*.
 6. B. S. Grewal, *Numerical Method*.
 
-## Previous Questions
+## Folder Structure
+
 ```text
+BIT_SUBJECT_FOLDER/
 ├── README.md
 └── Previous-Questions/
     └── README.md
@@ -76,6 +78,6 @@ Solve nonlinear equations, use interpolation, fit curves, solve linear equations
         ├── 2022
         └── 2021
 ```
-The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 
+The `Previous-Questions/README.md` file organizes previous examination question papers by year.
 Notes and lab programs will be added here.
