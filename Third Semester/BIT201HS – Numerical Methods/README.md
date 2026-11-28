@@ -63,7 +63,7 @@ Solve nonlinear equations, use interpolation, fit curves, solve linear equations
 3. V. N. Vedamurthy and N. Ch. S. N. Iyengar, *Numerical Methods*.
 4. S. S. Sastry, *Engineering Mathematics Volume-II*, PHI.
 5. E. Balagurusamy, *Numerical Methods*.
-6. B. S. Grewal, *Numerical Method*.
+6. B. S. Grewal, *Numerical Method*. ([PDF link](https://api.pageplace.de/preview/DT0400.9781683922957_A49425048/preview-9781683922957_A49425048.pdf))
 
 ## Folder Structure
 
